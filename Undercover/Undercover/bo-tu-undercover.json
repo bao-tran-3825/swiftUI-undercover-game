@@ -1,0 +1,5407 @@
+{
+  "name": "Bộ từ chơi Undercover",
+  "language": "vi",
+  "totalPairs": 1000,
+  "categories": [
+    {
+      "category": "Động vật",
+      "pairs": [
+        {
+          "id": 1,
+          "civilian": "Chó",
+          "undercover": "Mèo"
+        },
+        {
+          "id": 2,
+          "civilian": "Hổ",
+          "undercover": "Sư tử"
+        },
+        {
+          "id": 3,
+          "civilian": "Cá sấu",
+          "undercover": "Thằn lằn"
+        },
+        {
+          "id": 4,
+          "civilian": "Ong",
+          "undercover": "Bướm"
+        },
+        {
+          "id": 5,
+          "civilian": "Vịt",
+          "undercover": "Ngỗng"
+        },
+        {
+          "id": 6,
+          "civilian": "Ếch",
+          "undercover": "Cóc"
+        },
+        {
+          "id": 7,
+          "civilian": "Ngựa",
+          "undercover": "Lừa"
+        },
+        {
+          "id": 8,
+          "civilian": "Cá heo",
+          "undercover": "Cá voi"
+        },
+        {
+          "id": 9,
+          "civilian": "Chuột",
+          "undercover": "Hamster"
+        },
+        {
+          "id": 10,
+          "civilian": "Gà",
+          "undercover": "Vịt"
+        },
+        {
+          "id": 11,
+          "civilian": "Thỏ",
+          "undercover": "Sóc"
+        },
+        {
+          "id": 12,
+          "civilian": "Rắn",
+          "undercover": "Lươn"
+        },
+        {
+          "id": 13,
+          "civilian": "Đại bàng",
+          "undercover": "Diều hâu"
+        },
+        {
+          "id": 14,
+          "civilian": "Cừu",
+          "undercover": "Dê"
+        },
+        {
+          "id": 15,
+          "civilian": "Rùa",
+          "undercover": "Ba ba"
+        }
+      ]
+    },
+    {
+      "category": "Phim Mỹ",
+      "pairs": [
+        {
+          "id": 16,
+          "civilian": "Titanic",
+          "undercover": "Avatar"
+        },
+        {
+          "id": 17,
+          "civilian": "Harry Potter",
+          "undercover": "Chúa Nhẫn"
+        },
+        {
+          "id": 18,
+          "civilian": "Avengers",
+          "undercover": "Justice League"
+        },
+        {
+          "id": 19,
+          "civilian": "Fast & Furious",
+          "undercover": "Transformers"
+        },
+        {
+          "id": 20,
+          "civilian": "Jurassic Park",
+          "undercover": "King Kong"
+        },
+        {
+          "id": 21,
+          "civilian": "Star Wars",
+          "undercover": "Star Trek"
+        },
+        {
+          "id": 22,
+          "civilian": "Batman",
+          "undercover": "Superman"
+        },
+        {
+          "id": 23,
+          "civilian": "Spider-Man",
+          "undercover": "Iron Man"
+        },
+        {
+          "id": 24,
+          "civilian": "Cướp biển Caribbean",
+          "undercover": "Indiana Jones"
+        },
+        {
+          "id": 25,
+          "civilian": "The Conjuring",
+          "undercover": "Insidious"
+        },
+        {
+          "id": 26,
+          "civilian": "John Wick",
+          "undercover": "Mission: Impossible"
+        },
+        {
+          "id": 27,
+          "civilian": "Joker",
+          "undercover": "Venom"
+        },
+        {
+          "id": 28,
+          "civilian": "Twilight",
+          "undercover": "The Vampire Diaries"
+        },
+        {
+          "id": 29,
+          "civilian": "The Matrix",
+          "undercover": "Inception"
+        },
+        {
+          "id": 30,
+          "civilian": "Deadpool",
+          "undercover": "Wolverine"
+        }
+      ]
+    },
+    {
+      "category": "Phim hoạt hình",
+      "pairs": [
+        {
+          "id": 31,
+          "civilian": "Frozen",
+          "undercover": "Tangled"
+        },
+        {
+          "id": 32,
+          "civilian": "Toy Story",
+          "undercover": "Cars"
+        },
+        {
+          "id": 33,
+          "civilian": "Shrek",
+          "undercover": "Kung Fu Panda"
+        },
+        {
+          "id": 34,
+          "civilian": "Finding Nemo",
+          "undercover": "Moana"
+        },
+        {
+          "id": 35,
+          "civilian": "Minions",
+          "undercover": "Ice Age"
+        },
+        {
+          "id": 36,
+          "civilian": "The Lion King",
+          "undercover": "Zootopia"
+        },
+        {
+          "id": 37,
+          "civilian": "Up",
+          "undercover": "Coco"
+        },
+        {
+          "id": 38,
+          "civilian": "How to Train Your Dragon",
+          "undercover": "Brave"
+        },
+        {
+          "id": 39,
+          "civilian": "Inside Out",
+          "undercover": "Soul"
+        },
+        {
+          "id": 40,
+          "civilian": "Despicable Me",
+          "undercover": "Megamind"
+        },
+        {
+          "id": 41,
+          "civilian": "Encanto",
+          "undercover": "Luca"
+        },
+        {
+          "id": 42,
+          "civilian": "Ratatouille",
+          "undercover": "Wall-E"
+        }
+      ]
+    },
+    {
+      "category": "Thể loại & Điện ảnh",
+      "pairs": [
+        {
+          "id": 43,
+          "civilian": "Đạo diễn",
+          "undercover": "Diễn viên"
+        },
+        {
+          "id": 44,
+          "civilian": "Phim kinh dị",
+          "undercover": "Phim ma"
+        },
+        {
+          "id": 45,
+          "civilian": "Phim hành động",
+          "undercover": "Phim phiêu lưu"
+        },
+        {
+          "id": 46,
+          "civilian": "Phim hài",
+          "undercover": "Phim tình cảm"
+        },
+        {
+          "id": 47,
+          "civilian": "Rạp phim",
+          "undercover": "Nhà hát"
+        },
+        {
+          "id": 48,
+          "civilian": "Bỏng ngô",
+          "undercover": "Nước ngọt"
+        },
+        {
+          "id": 49,
+          "civilian": "Trailer",
+          "undercover": "Poster"
+        },
+        {
+          "id": 50,
+          "civilian": "Phụ đề",
+          "undercover": "Lồng tiếng"
+        },
+        {
+          "id": 51,
+          "civilian": "Phim lẻ",
+          "undercover": "Phim bộ"
+        },
+        {
+          "id": 52,
+          "civilian": "Màn hình chiếu",
+          "undercover": "Máy chiếu"
+        },
+        {
+          "id": 53,
+          "civilian": "Giải Oscar",
+          "undercover": "Quả cầu vàng"
+        },
+        {
+          "id": 54,
+          "civilian": "Kịch bản",
+          "undercover": "Cốt truyện"
+        },
+        {
+          "id": 55,
+          "civilian": "Nam chính",
+          "undercover": "Nam phụ"
+        },
+        {
+          "id": 56,
+          "civilian": "Vé xem phim",
+          "undercover": "Combo bắp nước"
+        },
+        {
+          "id": 57,
+          "civilian": "Phim 3D",
+          "undercover": "Phim IMAX"
+        }
+      ]
+    },
+    {
+      "category": "Địa điểm & Thành phố",
+      "pairs": [
+        {
+          "id": 58,
+          "civilian": "Paris",
+          "undercover": "London"
+        },
+        {
+          "id": 59,
+          "civilian": "Tokyo",
+          "undercover": "Seoul"
+        },
+        {
+          "id": 60,
+          "civilian": "New York",
+          "undercover": "Los Angeles"
+        },
+        {
+          "id": 61,
+          "civilian": "Hà Nội",
+          "undercover": "Sài Gòn"
+        },
+        {
+          "id": 62,
+          "civilian": "Đà Lạt",
+          "undercover": "Sa Pa"
+        },
+        {
+          "id": 63,
+          "civilian": "Đà Nẵng",
+          "undercover": "Nha Trang"
+        },
+        {
+          "id": 64,
+          "civilian": "Venice",
+          "undercover": "Amsterdam"
+        },
+        {
+          "id": 65,
+          "civilian": "Dubai",
+          "undercover": "Singapore"
+        },
+        {
+          "id": 66,
+          "civilian": "Bangkok",
+          "undercover": "Bali"
+        },
+        {
+          "id": 67,
+          "civilian": "Hạ Long",
+          "undercover": "Phú Quốc"
+        },
+        {
+          "id": 68,
+          "civilian": "Trung Quốc",
+          "undercover": "Nhật Bản"
+        },
+        {
+          "id": 69,
+          "civilian": "Ai Cập",
+          "undercover": "Hy Lạp"
+        }
+      ]
+    },
+    {
+      "category": "Đồ ăn",
+      "pairs": [
+        {
+          "id": 70,
+          "civilian": "Phở",
+          "undercover": "Bún"
+        },
+        {
+          "id": 71,
+          "civilian": "Pizza",
+          "undercover": "Hamburger"
+        },
+        {
+          "id": 72,
+          "civilian": "Bánh mì",
+          "undercover": "Bánh bao"
+        },
+        {
+          "id": 73,
+          "civilian": "Sushi",
+          "undercover": "Sashimi"
+        },
+        {
+          "id": 74,
+          "civilian": "Bún bò",
+          "undercover": "Bún riêu"
+        },
+        {
+          "id": 75,
+          "civilian": "Mì tôm",
+          "undercover": "Miến"
+        },
+        {
+          "id": 76,
+          "civilian": "Kem",
+          "undercover": "Sữa chua"
+        },
+        {
+          "id": 77,
+          "civilian": "Chè",
+          "undercover": "Tào phớ"
+        },
+        {
+          "id": 78,
+          "civilian": "Xôi",
+          "undercover": "Cơm"
+        },
+        {
+          "id": 79,
+          "civilian": "Bánh cuốn",
+          "undercover": "Bánh ướt"
+        },
+        {
+          "id": 80,
+          "civilian": "Nem rán",
+          "undercover": "Chả giò"
+        },
+        {
+          "id": 81,
+          "civilian": "Gỏi cuốn",
+          "undercover": "Bánh tráng cuốn"
+        },
+        {
+          "id": 82,
+          "civilian": "Bánh chưng",
+          "undercover": "Bánh tét"
+        },
+        {
+          "id": 83,
+          "civilian": "Khoai tây chiên",
+          "undercover": "Khoai lang chiên"
+        },
+        {
+          "id": 84,
+          "civilian": "Mì Ý",
+          "undercover": "Mì xào"
+        }
+      ]
+    },
+    {
+      "category": "Đồ uống",
+      "pairs": [
+        {
+          "id": 85,
+          "civilian": "Cà phê",
+          "undercover": "Trà"
+        },
+        {
+          "id": 86,
+          "civilian": "Coca",
+          "undercover": "Pepsi"
+        },
+        {
+          "id": 87,
+          "civilian": "Trà sữa",
+          "undercover": "Sinh tố"
+        },
+        {
+          "id": 88,
+          "civilian": "Bia",
+          "undercover": "Rượu"
+        },
+        {
+          "id": 89,
+          "civilian": "Nước cam",
+          "undercover": "Nước chanh"
+        },
+        {
+          "id": 90,
+          "civilian": "Sữa tươi",
+          "undercover": "Sữa đặc"
+        },
+        {
+          "id": 91,
+          "civilian": "Nước dừa",
+          "undercover": "Nước mía"
+        },
+        {
+          "id": 92,
+          "civilian": "Soda",
+          "undercover": "Nước ngọt"
+        }
+      ]
+    },
+    {
+      "category": "Trái cây",
+      "pairs": [
+        {
+          "id": 93,
+          "civilian": "Táo",
+          "undercover": "Lê"
+        },
+        {
+          "id": 94,
+          "civilian": "Cam",
+          "undercover": "Quýt"
+        },
+        {
+          "id": 95,
+          "civilian": "Chuối",
+          "undercover": "Đu đủ"
+        },
+        {
+          "id": 96,
+          "civilian": "Dưa hấu",
+          "undercover": "Dưa lưới"
+        },
+        {
+          "id": 97,
+          "civilian": "Xoài",
+          "undercover": "Mít"
+        },
+        {
+          "id": 98,
+          "civilian": "Nho",
+          "undercover": "Việt quất"
+        },
+        {
+          "id": 99,
+          "civilian": "Dâu tây",
+          "undercover": "Mâm xôi"
+        },
+        {
+          "id": 100,
+          "civilian": "Chanh",
+          "undercover": "Quất"
+        },
+        {
+          "id": 101,
+          "civilian": "Nhãn",
+          "undercover": "Vải"
+        },
+        {
+          "id": 102,
+          "civilian": "Sầu riêng",
+          "undercover": "Mít"
+        }
+      ]
+    },
+    {
+      "category": "Thể thao & Vận động",
+      "pairs": [
+        {
+          "id": 103,
+          "civilian": "Bóng đá",
+          "undercover": "Bóng rổ"
+        },
+        {
+          "id": 104,
+          "civilian": "Cầu lông",
+          "undercover": "Tennis"
+        },
+        {
+          "id": 105,
+          "civilian": "Bơi",
+          "undercover": "Lặn"
+        },
+        {
+          "id": 106,
+          "civilian": "Chạy bộ",
+          "undercover": "Đi bộ"
+        },
+        {
+          "id": 107,
+          "civilian": "Yoga",
+          "undercover": "Gym"
+        },
+        {
+          "id": 108,
+          "civilian": "Boxing",
+          "undercover": "Karate"
+        },
+        {
+          "id": 109,
+          "civilian": "Bóng chuyền",
+          "undercover": "Bóng ném"
+        },
+        {
+          "id": 110,
+          "civilian": "Trượt băng",
+          "undercover": "Trượt tuyết"
+        },
+        {
+          "id": 111,
+          "civilian": "Cờ vua",
+          "undercover": "Cờ tướng"
+        },
+        {
+          "id": 112,
+          "civilian": "Bóng bàn",
+          "undercover": "Tennis"
+        }
+      ]
+    },
+    {
+      "category": "Nghề nghiệp",
+      "pairs": [
+        {
+          "id": 113,
+          "civilian": "Bác sĩ",
+          "undercover": "Y tá"
+        },
+        {
+          "id": 114,
+          "civilian": "Giáo viên",
+          "undercover": "Gia sư"
+        },
+        {
+          "id": 115,
+          "civilian": "Cảnh sát",
+          "undercover": "Bộ đội"
+        },
+        {
+          "id": 116,
+          "civilian": "Ca sĩ",
+          "undercover": "Rapper"
+        },
+        {
+          "id": 117,
+          "civilian": "Diễn viên",
+          "undercover": "Người mẫu"
+        },
+        {
+          "id": 118,
+          "civilian": "Đầu bếp",
+          "undercover": "Thợ làm bánh"
+        },
+        {
+          "id": 119,
+          "civilian": "Phi công",
+          "undercover": "Tiếp viên hàng không"
+        },
+        {
+          "id": 120,
+          "civilian": "Luật sư",
+          "undercover": "Thẩm phán"
+        },
+        {
+          "id": 121,
+          "civilian": "Họa sĩ",
+          "undercover": "Nhiếp ảnh gia"
+        },
+        {
+          "id": 122,
+          "civilian": "Lập trình viên",
+          "undercover": "Kỹ sư"
+        }
+      ]
+    },
+    {
+      "category": "Phương tiện",
+      "pairs": [
+        {
+          "id": 123,
+          "civilian": "Xe máy",
+          "undercover": "Xe đạp"
+        },
+        {
+          "id": 124,
+          "civilian": "Ô tô",
+          "undercover": "Xe buýt"
+        },
+        {
+          "id": 125,
+          "civilian": "Máy bay",
+          "undercover": "Trực thăng"
+        },
+        {
+          "id": 126,
+          "civilian": "Tàu hỏa",
+          "undercover": "Tàu điện"
+        },
+        {
+          "id": 127,
+          "civilian": "Thuyền",
+          "undercover": "Ca nô"
+        },
+        {
+          "id": 128,
+          "civilian": "Xe tải",
+          "undercover": "Xe container"
+        },
+        {
+          "id": 129,
+          "civilian": "Taxi",
+          "undercover": "Grab"
+        },
+        {
+          "id": 130,
+          "civilian": "Tàu ngầm",
+          "undercover": "Tàu thủy"
+        }
+      ]
+    },
+    {
+      "category": "Công nghệ & Thương hiệu",
+      "pairs": [
+        {
+          "id": 131,
+          "civilian": "iPhone",
+          "undercover": "Samsung"
+        },
+        {
+          "id": 132,
+          "civilian": "Facebook",
+          "undercover": "Instagram"
+        },
+        {
+          "id": 133,
+          "civilian": "TikTok",
+          "undercover": "YouTube"
+        },
+        {
+          "id": 134,
+          "civilian": "Zalo",
+          "undercover": "Messenger"
+        },
+        {
+          "id": 135,
+          "civilian": "Netflix",
+          "undercover": "Disney+"
+        },
+        {
+          "id": 136,
+          "civilian": "Google",
+          "undercover": "Bing"
+        },
+        {
+          "id": 137,
+          "civilian": "Laptop",
+          "undercover": "Máy tính bảng"
+        },
+        {
+          "id": 138,
+          "civilian": "Điện thoại",
+          "undercover": "Đồng hồ thông minh"
+        },
+        {
+          "id": 139,
+          "civilian": "Tivi",
+          "undercover": "Máy chiếu"
+        },
+        {
+          "id": 140,
+          "civilian": "Loa",
+          "undercover": "Tai nghe"
+        }
+      ]
+    },
+    {
+      "category": "Đồ vật hằng ngày",
+      "pairs": [
+        {
+          "id": 141,
+          "civilian": "Bút chì",
+          "undercover": "Bút bi"
+        },
+        {
+          "id": 142,
+          "civilian": "Quạt",
+          "undercover": "Điều hòa"
+        },
+        {
+          "id": 143,
+          "civilian": "Ô (dù)",
+          "undercover": "Áo mưa"
+        },
+        {
+          "id": 144,
+          "civilian": "Kính cận",
+          "undercover": "Kính râm"
+        },
+        {
+          "id": 145,
+          "civilian": "Ba lô",
+          "undercover": "Túi xách"
+        },
+        {
+          "id": 146,
+          "civilian": "Giày",
+          "undercover": "Dép"
+        },
+        {
+          "id": 147,
+          "civilian": "Đồng hồ",
+          "undercover": "Vòng tay"
+        },
+        {
+          "id": 148,
+          "civilian": "Gương",
+          "undercover": "Cửa kính"
+        },
+        {
+          "id": 149,
+          "civilian": "Nến",
+          "undercover": "Đèn pin"
+        },
+        {
+          "id": 150,
+          "civilian": "Chìa khóa",
+          "undercover": "Thẻ từ"
+        },
+        {
+          "id": 151,
+          "civilian": "Sổ tay",
+          "undercover": "Nhật ký"
+        },
+        {
+          "id": 152,
+          "civilian": "Ví",
+          "undercover": "Túi đựng tiền"
+        }
+      ]
+    },
+    {
+      "category": "Đồ trong nhà",
+      "pairs": [
+        {
+          "id": 153,
+          "civilian": "Ghế",
+          "undercover": "Ghế sofa"
+        },
+        {
+          "id": 154,
+          "civilian": "Bàn ăn",
+          "undercover": "Bàn học"
+        },
+        {
+          "id": 155,
+          "civilian": "Giường",
+          "undercover": "Nệm"
+        },
+        {
+          "id": 156,
+          "civilian": "Tủ lạnh",
+          "undercover": "Tủ đông"
+        },
+        {
+          "id": 157,
+          "civilian": "Nồi",
+          "undercover": "Chảo"
+        },
+        {
+          "id": 158,
+          "civilian": "Cốc",
+          "undercover": "Ly"
+        },
+        {
+          "id": 159,
+          "civilian": "Thìa",
+          "undercover": "Đũa"
+        },
+        {
+          "id": 160,
+          "civilian": "Chăn",
+          "undercover": "Mền"
+        },
+        {
+          "id": 161,
+          "civilian": "Gối",
+          "undercover": "Đệm"
+        },
+        {
+          "id": 162,
+          "civilian": "Rèm cửa",
+          "undercover": "Mành cửa"
+        }
+      ]
+    },
+    {
+      "category": "Thiên nhiên & Thời tiết",
+      "pairs": [
+        {
+          "id": 163,
+          "civilian": "Núi",
+          "undercover": "Đồi"
+        },
+        {
+          "id": 164,
+          "civilian": "Sông",
+          "undercover": "Suối"
+        },
+        {
+          "id": 165,
+          "civilian": "Biển",
+          "undercover": "Hồ"
+        },
+        {
+          "id": 166,
+          "civilian": "Mưa",
+          "undercover": "Tuyết"
+        },
+        {
+          "id": 167,
+          "civilian": "Mặt trời",
+          "undercover": "Mặt trăng"
+        },
+        {
+          "id": 168,
+          "civilian": "Sao",
+          "undercover": "Sao chổi"
+        },
+        {
+          "id": 169,
+          "civilian": "Cầu vồng",
+          "undercover": "Ánh nắng"
+        },
+        {
+          "id": 170,
+          "civilian": "Sương mù",
+          "undercover": "Mây"
+        },
+        {
+          "id": 171,
+          "civilian": "Gió",
+          "undercover": "Bão"
+        },
+        {
+          "id": 172,
+          "civilian": "Mùa xuân",
+          "undercover": "Mùa thu"
+        },
+        {
+          "id": 173,
+          "civilian": "Mùa hè",
+          "undercover": "Mùa đông"
+        }
+      ]
+    },
+    {
+      "category": "Nhạc cụ",
+      "pairs": [
+        {
+          "id": 174,
+          "civilian": "Guitar",
+          "undercover": "Ukulele"
+        },
+        {
+          "id": 175,
+          "civilian": "Piano",
+          "undercover": "Organ"
+        },
+        {
+          "id": 176,
+          "civilian": "Trống",
+          "undercover": "Trống lắc"
+        },
+        {
+          "id": 177,
+          "civilian": "Sáo",
+          "undercover": "Kèn"
+        },
+        {
+          "id": 178,
+          "civilian": "Violin",
+          "undercover": "Cello"
+        },
+        {
+          "id": 179,
+          "civilian": "Đàn tranh",
+          "undercover": "Đàn bầu"
+        }
+      ]
+    },
+    {
+      "category": "Trang phục",
+      "pairs": [
+        {
+          "id": 180,
+          "civilian": "Áo sơ mi",
+          "undercover": "Áo phông"
+        },
+        {
+          "id": 181,
+          "civilian": "Quần jean",
+          "undercover": "Quần kaki"
+        },
+        {
+          "id": 182,
+          "civilian": "Váy",
+          "undercover": "Đầm"
+        },
+        {
+          "id": 183,
+          "civilian": "Mũ lưỡi trai",
+          "undercover": "Nón lá"
+        },
+        {
+          "id": 184,
+          "civilian": "Áo khoác",
+          "undercover": "Áo len"
+        },
+        {
+          "id": 185,
+          "civilian": "Giày thể thao",
+          "undercover": "Giày cao gót"
+        }
+      ]
+    },
+    {
+      "category": "Rau củ",
+      "pairs": [
+        {
+          "id": 186,
+          "civilian": "Cà rốt",
+          "undercover": "Củ cải"
+        },
+        {
+          "id": 187,
+          "civilian": "Bắp cải",
+          "undercover": "Xà lách"
+        },
+        {
+          "id": 188,
+          "civilian": "Cà chua",
+          "undercover": "Cà tím"
+        },
+        {
+          "id": 189,
+          "civilian": "Khoai tây",
+          "undercover": "Khoai lang"
+        },
+        {
+          "id": 190,
+          "civilian": "Hành",
+          "undercover": "Tỏi"
+        },
+        {
+          "id": 191,
+          "civilian": "Ớt",
+          "undercover": "Tiêu"
+        },
+        {
+          "id": 192,
+          "civilian": "Dưa chuột",
+          "undercover": "Bí xanh"
+        },
+        {
+          "id": 193,
+          "civilian": "Rau muống",
+          "undercover": "Rau cải"
+        },
+        {
+          "id": 194,
+          "civilian": "Nấm rơm",
+          "undercover": "Nấm kim châm"
+        },
+        {
+          "id": 195,
+          "civilian": "Đậu que",
+          "undercover": "Đậu bắp"
+        },
+        {
+          "id": 196,
+          "civilian": "Su hào",
+          "undercover": "Su su"
+        },
+        {
+          "id": 197,
+          "civilian": "Măng",
+          "undercover": "Giá đỗ"
+        }
+      ]
+    },
+    {
+      "category": "Hoa",
+      "pairs": [
+        {
+          "id": 198,
+          "civilian": "Hoa hồng",
+          "undercover": "Hoa cúc"
+        },
+        {
+          "id": 199,
+          "civilian": "Hoa lan",
+          "undercover": "Hoa huệ"
+        },
+        {
+          "id": 200,
+          "civilian": "Hoa sen",
+          "undercover": "Hoa súng"
+        },
+        {
+          "id": 201,
+          "civilian": "Hoa mai",
+          "undercover": "Hoa đào"
+        },
+        {
+          "id": 202,
+          "civilian": "Hoa hướng dương",
+          "undercover": "Hoa cải"
+        },
+        {
+          "id": 203,
+          "civilian": "Hoa tulip",
+          "undercover": "Hoa ly"
+        },
+        {
+          "id": 204,
+          "civilian": "Hoa cẩm chướng",
+          "undercover": "Hoa đồng tiền"
+        },
+        {
+          "id": 205,
+          "civilian": "Hoa giấy",
+          "undercover": "Hoa dâm bụt"
+        },
+        {
+          "id": 206,
+          "civilian": "Hoa nhài",
+          "undercover": "Hoa bưởi"
+        },
+        {
+          "id": 207,
+          "civilian": "Hoa phượng",
+          "undercover": "Hoa bằng lăng"
+        }
+      ]
+    },
+    {
+      "category": "Chim",
+      "pairs": [
+        {
+          "id": 208,
+          "civilian": "Chim sẻ",
+          "undercover": "Chim én"
+        },
+        {
+          "id": 209,
+          "civilian": "Vẹt",
+          "undercover": "Sáo"
+        },
+        {
+          "id": 210,
+          "civilian": "Bồ câu",
+          "undercover": "Cu gáy"
+        },
+        {
+          "id": 211,
+          "civilian": "Chim công",
+          "undercover": "Gà lôi"
+        },
+        {
+          "id": 212,
+          "civilian": "Đà điểu",
+          "undercover": "Chim cánh cụt"
+        },
+        {
+          "id": 213,
+          "civilian": "Chim ưng",
+          "undercover": "Cú mèo"
+        },
+        {
+          "id": 214,
+          "civilian": "Hải âu",
+          "undercover": "Bồ nông"
+        },
+        {
+          "id": 215,
+          "civilian": "Chào mào",
+          "undercover": "Họa mi"
+        }
+      ]
+    },
+    {
+      "category": "Cá & Hải sản",
+      "pairs": [
+        {
+          "id": 216,
+          "civilian": "Cá chép",
+          "undercover": "Cá rô"
+        },
+        {
+          "id": 217,
+          "civilian": "Tôm",
+          "undercover": "Tép"
+        },
+        {
+          "id": 218,
+          "civilian": "Cua",
+          "undercover": "Ghẹ"
+        },
+        {
+          "id": 219,
+          "civilian": "Mực",
+          "undercover": "Bạch tuộc"
+        },
+        {
+          "id": 220,
+          "civilian": "Cá thu",
+          "undercover": "Cá ngừ"
+        },
+        {
+          "id": 221,
+          "civilian": "Ốc",
+          "undercover": "Sò"
+        },
+        {
+          "id": 222,
+          "civilian": "Nghêu",
+          "undercover": "Hàu"
+        },
+        {
+          "id": 223,
+          "civilian": "Cá hồi",
+          "undercover": "Cá basa"
+        },
+        {
+          "id": 224,
+          "civilian": "Cá lóc",
+          "undercover": "Cá trê"
+        },
+        {
+          "id": 225,
+          "civilian": "Sứa",
+          "undercover": "San hô"
+        }
+      ]
+    },
+    {
+      "category": "Bánh kẹo & Tráng miệng",
+      "pairs": [
+        {
+          "id": 226,
+          "civilian": "Bánh kem",
+          "undercover": "Bánh bông lan"
+        },
+        {
+          "id": 227,
+          "civilian": "Sô cô la",
+          "undercover": "Kẹo dẻo"
+        },
+        {
+          "id": 228,
+          "civilian": "Bánh quy",
+          "undercover": "Bánh gạo"
+        },
+        {
+          "id": 229,
+          "civilian": "Kẹo mút",
+          "undercover": "Kẹo cao su"
+        },
+        {
+          "id": 230,
+          "civilian": "Bánh flan",
+          "undercover": "Rau câu"
+        },
+        {
+          "id": 231,
+          "civilian": "Donut",
+          "undercover": "Croissant"
+        },
+        {
+          "id": 232,
+          "civilian": "Bánh trung thu",
+          "undercover": "Bánh dẻo"
+        },
+        {
+          "id": 233,
+          "civilian": "Mứt",
+          "undercover": "Ô mai"
+        },
+        {
+          "id": 234,
+          "civilian": "Tiramisu",
+          "undercover": "Mousse"
+        },
+        {
+          "id": 235,
+          "civilian": "Kẹo bông",
+          "undercover": "Kẹo kéo"
+        },
+        {
+          "id": 236,
+          "civilian": "Bánh su kem",
+          "undercover": "Bánh táo"
+        },
+        {
+          "id": 237,
+          "civilian": "Macaron",
+          "undercover": "Cupcake"
+        }
+      ]
+    },
+    {
+      "category": "Gia vị",
+      "pairs": [
+        {
+          "id": 238,
+          "civilian": "Muối",
+          "undercover": "Đường"
+        },
+        {
+          "id": 239,
+          "civilian": "Nước mắm",
+          "undercover": "Nước tương"
+        },
+        {
+          "id": 240,
+          "civilian": "Tương ớt",
+          "undercover": "Tương cà"
+        },
+        {
+          "id": 241,
+          "civilian": "Dấm",
+          "undercover": "Chanh"
+        },
+        {
+          "id": 242,
+          "civilian": "Bột ngọt",
+          "undercover": "Hạt nêm"
+        },
+        {
+          "id": 243,
+          "civilian": "Quế",
+          "undercover": "Hồi"
+        },
+        {
+          "id": 244,
+          "civilian": "Gừng",
+          "undercover": "Sả"
+        },
+        {
+          "id": 245,
+          "civilian": "Mật ong",
+          "undercover": "Đường phèn"
+        }
+      ]
+    },
+    {
+      "category": "Màu sắc",
+      "pairs": [
+        {
+          "id": 246,
+          "civilian": "Đỏ",
+          "undercover": "Cam"
+        },
+        {
+          "id": 247,
+          "civilian": "Xanh lá",
+          "undercover": "Xanh dương"
+        },
+        {
+          "id": 248,
+          "civilian": "Tím",
+          "undercover": "Hồng"
+        },
+        {
+          "id": 249,
+          "civilian": "Vàng",
+          "undercover": "Nâu"
+        },
+        {
+          "id": 250,
+          "civilian": "Đen",
+          "undercover": "Xám"
+        },
+        {
+          "id": 251,
+          "civilian": "Trắng",
+          "undercover": "Kem"
+        },
+        {
+          "id": 252,
+          "civilian": "Xanh ngọc",
+          "undercover": "Xanh mint"
+        },
+        {
+          "id": 253,
+          "civilian": "Đỏ đô",
+          "undercover": "Đỏ tươi"
+        },
+        {
+          "id": 254,
+          "civilian": "Be",
+          "undercover": "Nude"
+        },
+        {
+          "id": 255,
+          "civilian": "Bạc",
+          "undercover": "Vàng gold"
+        }
+      ]
+    },
+    {
+      "category": "Hình khối",
+      "pairs": [
+        {
+          "id": 256,
+          "civilian": "Hình vuông",
+          "undercover": "Hình chữ nhật"
+        },
+        {
+          "id": 257,
+          "civilian": "Hình tròn",
+          "undercover": "Hình bầu dục"
+        },
+        {
+          "id": 258,
+          "civilian": "Tam giác",
+          "undercover": "Tứ giác"
+        },
+        {
+          "id": 259,
+          "civilian": "Ngôi sao",
+          "undercover": "Trái tim"
+        },
+        {
+          "id": 260,
+          "civilian": "Hình thoi",
+          "undercover": "Hình bình hành"
+        },
+        {
+          "id": 261,
+          "civilian": "Lập phương",
+          "undercover": "Hình cầu"
+        }
+      ]
+    },
+    {
+      "category": "Bộ phận cơ thể",
+      "pairs": [
+        {
+          "id": 262,
+          "civilian": "Tay",
+          "undercover": "Chân"
+        },
+        {
+          "id": 263,
+          "civilian": "Mắt",
+          "undercover": "Mũi"
+        },
+        {
+          "id": 264,
+          "civilian": "Tai",
+          "undercover": "Miệng"
+        },
+        {
+          "id": 265,
+          "civilian": "Đầu",
+          "undercover": "Cổ"
+        },
+        {
+          "id": 266,
+          "civilian": "Vai",
+          "undercover": "Lưng"
+        },
+        {
+          "id": 267,
+          "civilian": "Ngón tay",
+          "undercover": "Ngón chân"
+        },
+        {
+          "id": 268,
+          "civilian": "Tim",
+          "undercover": "Phổi"
+        },
+        {
+          "id": 269,
+          "civilian": "Răng",
+          "undercover": "Lưỡi"
+        },
+        {
+          "id": 270,
+          "civilian": "Tóc",
+          "undercover": "Lông mày"
+        },
+        {
+          "id": 271,
+          "civilian": "Đầu gối",
+          "undercover": "Khuỷu tay"
+        }
+      ]
+    },
+    {
+      "category": "Cảm xúc",
+      "pairs": [
+        {
+          "id": 272,
+          "civilian": "Vui",
+          "undercover": "Hạnh phúc"
+        },
+        {
+          "id": 273,
+          "civilian": "Buồn",
+          "undercover": "Thất vọng"
+        },
+        {
+          "id": 274,
+          "civilian": "Giận",
+          "undercover": "Bực bội"
+        },
+        {
+          "id": 275,
+          "civilian": "Sợ",
+          "undercover": "Lo lắng"
+        },
+        {
+          "id": 276,
+          "civilian": "Ngạc nhiên",
+          "undercover": "Bất ngờ"
+        },
+        {
+          "id": 277,
+          "civilian": "Yêu",
+          "undercover": "Thích"
+        },
+        {
+          "id": 278,
+          "civilian": "Ghét",
+          "undercover": "Chán"
+        },
+        {
+          "id": 279,
+          "civilian": "Xấu hổ",
+          "undercover": "Ngại ngùng"
+        }
+      ]
+    },
+    {
+      "category": "Ngày lễ & Sự kiện",
+      "pairs": [
+        {
+          "id": 280,
+          "civilian": "Tết",
+          "undercover": "Giáng sinh"
+        },
+        {
+          "id": 281,
+          "civilian": "Trung thu",
+          "undercover": "Halloween"
+        },
+        {
+          "id": 282,
+          "civilian": "Valentine",
+          "undercover": "8/3"
+        },
+        {
+          "id": 283,
+          "civilian": "Sinh nhật",
+          "undercover": "Kỷ niệm"
+        },
+        {
+          "id": 284,
+          "civilian": "Đám cưới",
+          "undercover": "Đám hỏi"
+        },
+        {
+          "id": 285,
+          "civilian": "Năm mới",
+          "undercover": "Giao thừa"
+        },
+        {
+          "id": 286,
+          "civilian": "Quốc khánh",
+          "undercover": "Ngày Giải phóng"
+        },
+        {
+          "id": 287,
+          "civilian": "Lễ hội",
+          "undercover": "Hội chợ"
+        },
+        {
+          "id": 288,
+          "civilian": "Tết Nguyên đán",
+          "undercover": "Tết Trung thu"
+        },
+        {
+          "id": 289,
+          "civilian": "Ngày Nhà giáo",
+          "undercover": "Ngày Phụ nữ"
+        }
+      ]
+    },
+    {
+      "category": "Trò chơi & Game",
+      "pairs": [
+        {
+          "id": 290,
+          "civilian": "Liên Quân",
+          "undercover": "Free Fire"
+        },
+        {
+          "id": 291,
+          "civilian": "PUBG",
+          "undercover": "Call of Duty"
+        },
+        {
+          "id": 292,
+          "civilian": "Minecraft",
+          "undercover": "Roblox"
+        },
+        {
+          "id": 293,
+          "civilian": "Cờ tỷ phú",
+          "undercover": "Cờ cá ngựa"
+        },
+        {
+          "id": 294,
+          "civilian": "Cầu trượt",
+          "undercover": "Xích đu"
+        },
+        {
+          "id": 295,
+          "civilian": "Trốn tìm",
+          "undercover": "Đuổi bắt"
+        },
+        {
+          "id": 296,
+          "civilian": "Ô ăn quan",
+          "undercover": "Nhảy dây"
+        },
+        {
+          "id": 297,
+          "civilian": "Rồng rắn lên mây",
+          "undercover": "Mèo đuổi chuột"
+        },
+        {
+          "id": 298,
+          "civilian": "Uno",
+          "undercover": "Ma sói"
+        },
+        {
+          "id": 299,
+          "civilian": "Xếp hình",
+          "undercover": "Lego"
+        }
+      ]
+    },
+    {
+      "category": "Môn học & Trường lớp",
+      "pairs": [
+        {
+          "id": 300,
+          "civilian": "Toán",
+          "undercover": "Lý"
+        },
+        {
+          "id": 301,
+          "civilian": "Văn",
+          "undercover": "Sử"
+        },
+        {
+          "id": 302,
+          "civilian": "Hóa",
+          "undercover": "Sinh"
+        },
+        {
+          "id": 303,
+          "civilian": "Tiếng Anh",
+          "undercover": "Tiếng Pháp"
+        },
+        {
+          "id": 304,
+          "civilian": "Địa lý",
+          "undercover": "Lịch sử"
+        },
+        {
+          "id": 305,
+          "civilian": "Thể dục",
+          "undercover": "Âm nhạc"
+        },
+        {
+          "id": 306,
+          "civilian": "Mỹ thuật",
+          "undercover": "Thủ công"
+        },
+        {
+          "id": 307,
+          "civilian": "Bảng đen",
+          "undercover": "Bảng trắng"
+        },
+        {
+          "id": 308,
+          "civilian": "Phấn",
+          "undercover": "Bút lông"
+        },
+        {
+          "id": 309,
+          "civilian": "Vở",
+          "undercover": "Sách giáo khoa"
+        }
+      ]
+    },
+    {
+      "category": "Đồ dùng học tập",
+      "pairs": [
+        {
+          "id": 310,
+          "civilian": "Thước kẻ",
+          "undercover": "Compa"
+        },
+        {
+          "id": 311,
+          "civilian": "Tẩy",
+          "undercover": "Gọt bút chì"
+        },
+        {
+          "id": 312,
+          "civilian": "Hộp bút",
+          "undercover": "Cặp sách"
+        },
+        {
+          "id": 313,
+          "civilian": "Bút highlight",
+          "undercover": "Bút màu"
+        },
+        {
+          "id": 314,
+          "civilian": "Giấy nhớ",
+          "undercover": "Kẹp giấy"
+        },
+        {
+          "id": 315,
+          "civilian": "Máy tính bỏ túi",
+          "undercover": "Bảng cửu chương"
+        },
+        {
+          "id": 316,
+          "civilian": "Bìa hồ sơ",
+          "undercover": "Kẹp file"
+        },
+        {
+          "id": 317,
+          "civilian": "Băng dính",
+          "undercover": "Keo dán"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ nhà bếp",
+      "pairs": [
+        {
+          "id": 318,
+          "civilian": "Dao",
+          "undercover": "Kéo"
+        },
+        {
+          "id": 319,
+          "civilian": "Thớt",
+          "undercover": "Khay"
+        },
+        {
+          "id": 320,
+          "civilian": "Muỗng",
+          "undercover": "Vá"
+        },
+        {
+          "id": 321,
+          "civilian": "Chảo chống dính",
+          "undercover": "Nồi cơm điện"
+        },
+        {
+          "id": 322,
+          "civilian": "Lò vi sóng",
+          "undercover": "Lò nướng"
+        },
+        {
+          "id": 323,
+          "civilian": "Máy xay",
+          "undercover": "Máy ép"
+        },
+        {
+          "id": 324,
+          "civilian": "Rổ",
+          "undercover": "Rá"
+        },
+        {
+          "id": 325,
+          "civilian": "Bát",
+          "undercover": "Đĩa"
+        },
+        {
+          "id": 326,
+          "civilian": "Đũa cả",
+          "undercover": "Muôi canh"
+        },
+        {
+          "id": 327,
+          "civilian": "Cân",
+          "undercover": "Ca đong"
+        }
+      ]
+    },
+    {
+      "category": "Trang sức & Phụ kiện",
+      "pairs": [
+        {
+          "id": 328,
+          "civilian": "Nhẫn",
+          "undercover": "Vòng cổ"
+        },
+        {
+          "id": 329,
+          "civilian": "Bông tai",
+          "undercover": "Khuyên tai"
+        },
+        {
+          "id": 330,
+          "civilian": "Lắc tay",
+          "undercover": "Lắc chân"
+        },
+        {
+          "id": 331,
+          "civilian": "Dây chuyền",
+          "undercover": "Mặt dây"
+        },
+        {
+          "id": 332,
+          "civilian": "Kẹp tóc",
+          "undercover": "Băng đô"
+        },
+        {
+          "id": 333,
+          "civilian": "Cà vạt",
+          "undercover": "Nơ"
+        },
+        {
+          "id": 334,
+          "civilian": "Thắt lưng",
+          "undercover": "Dây nịt"
+        },
+        {
+          "id": 335,
+          "civilian": "Kính mát",
+          "undercover": "Mũ nồi"
+        }
+      ]
+    },
+    {
+      "category": "Mỹ phẩm",
+      "pairs": [
+        {
+          "id": 336,
+          "civilian": "Son môi",
+          "undercover": "Son dưỡng"
+        },
+        {
+          "id": 337,
+          "civilian": "Phấn phủ",
+          "undercover": "Kem nền"
+        },
+        {
+          "id": 338,
+          "civilian": "Mascara",
+          "undercover": "Kẻ mắt"
+        },
+        {
+          "id": 339,
+          "civilian": "Nước hoa",
+          "undercover": "Xịt thơm"
+        },
+        {
+          "id": 340,
+          "civilian": "Kem chống nắng",
+          "undercover": "Kem dưỡng"
+        },
+        {
+          "id": 341,
+          "civilian": "Sữa rửa mặt",
+          "undercover": "Tẩy trang"
+        },
+        {
+          "id": 342,
+          "civilian": "Má hồng",
+          "undercover": "Highlight"
+        },
+        {
+          "id": 343,
+          "civilian": "Sơn móng",
+          "undercover": "Nước tẩy sơn"
+        }
+      ]
+    },
+    {
+      "category": "Vũ trụ & Thiên văn",
+      "pairs": [
+        {
+          "id": 344,
+          "civilian": "Trái Đất",
+          "undercover": "Sao Hỏa"
+        },
+        {
+          "id": 345,
+          "civilian": "Mặt Trời",
+          "undercover": "Ngôi sao"
+        },
+        {
+          "id": 346,
+          "civilian": "Sao Kim",
+          "undercover": "Sao Thủy"
+        },
+        {
+          "id": 347,
+          "civilian": "Sao Mộc",
+          "undercover": "Sao Thổ"
+        },
+        {
+          "id": 348,
+          "civilian": "Thiên hà",
+          "undercover": "Dải Ngân Hà"
+        },
+        {
+          "id": 349,
+          "civilian": "Sao chổi",
+          "undercover": "Thiên thạch"
+        },
+        {
+          "id": 350,
+          "civilian": "Phi hành gia",
+          "undercover": "Tên lửa"
+        },
+        {
+          "id": 351,
+          "civilian": "Vệ tinh",
+          "undercover": "Trạm vũ trụ"
+        }
+      ]
+    },
+    {
+      "category": "Khủng long",
+      "pairs": [
+        {
+          "id": 352,
+          "civilian": "T-Rex",
+          "undercover": "Spinosaurus"
+        },
+        {
+          "id": 353,
+          "civilian": "Velociraptor",
+          "undercover": "Brachiosaurus"
+        },
+        {
+          "id": 354,
+          "civilian": "Triceratops",
+          "undercover": "Stegosaurus"
+        },
+        {
+          "id": 355,
+          "civilian": "Pterodactyl",
+          "undercover": "Archaeopteryx"
+        },
+        {
+          "id": 356,
+          "civilian": "Khủng long bạo chúa",
+          "undercover": "Khủng long ăn cỏ"
+        },
+        {
+          "id": 357,
+          "civilian": "Mosasaurus",
+          "undercover": "Plesiosaurus"
+        }
+      ]
+    },
+    {
+      "category": "Hãng xe",
+      "pairs": [
+        {
+          "id": 358,
+          "civilian": "Toyota",
+          "undercover": "Honda"
+        },
+        {
+          "id": 359,
+          "civilian": "Mercedes",
+          "undercover": "BMW"
+        },
+        {
+          "id": 360,
+          "civilian": "Ferrari",
+          "undercover": "Lamborghini"
+        },
+        {
+          "id": 361,
+          "civilian": "Ford",
+          "undercover": "Chevrolet"
+        },
+        {
+          "id": 362,
+          "civilian": "Audi",
+          "undercover": "Porsche"
+        },
+        {
+          "id": 363,
+          "civilian": "Hyundai",
+          "undercover": "Kia"
+        },
+        {
+          "id": 364,
+          "civilian": "Vinfast",
+          "undercover": "Tesla"
+        },
+        {
+          "id": 365,
+          "civilian": "Rolls-Royce",
+          "undercover": "Bentley"
+        }
+      ]
+    },
+    {
+      "category": "Đồ chơi",
+      "pairs": [
+        {
+          "id": 366,
+          "civilian": "Búp bê",
+          "undercover": "Gấu bông"
+        },
+        {
+          "id": 367,
+          "civilian": "Ô tô điều khiển",
+          "undercover": "Máy bay điều khiển"
+        },
+        {
+          "id": 368,
+          "civilian": "Rubik",
+          "undercover": "Xếp hình"
+        },
+        {
+          "id": 369,
+          "civilian": "Súng nước",
+          "undercover": "Bóng bay"
+        },
+        {
+          "id": 370,
+          "civilian": "Diều",
+          "undercover": "Chong chóng"
+        },
+        {
+          "id": 371,
+          "civilian": "Con quay",
+          "undercover": "Bi"
+        },
+        {
+          "id": 372,
+          "civilian": "Slime",
+          "undercover": "Đất nặn"
+        },
+        {
+          "id": 373,
+          "civilian": "Robot",
+          "undercover": "Người máy"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ",
+      "pairs": [
+        {
+          "id": 374,
+          "civilian": "Búa",
+          "undercover": "Cờ lê"
+        },
+        {
+          "id": 375,
+          "civilian": "Tua vít",
+          "undercover": "Kìm"
+        },
+        {
+          "id": 376,
+          "civilian": "Cưa",
+          "undercover": "Bào"
+        },
+        {
+          "id": 377,
+          "civilian": "Đinh",
+          "undercover": "Ốc vít"
+        },
+        {
+          "id": 378,
+          "civilian": "Khoan",
+          "undercover": "Máy mài"
+        },
+        {
+          "id": 379,
+          "civilian": "Thước dây",
+          "undercover": "Thước cuộn"
+        },
+        {
+          "id": 380,
+          "civilian": "Bàn chải",
+          "undercover": "Chổi"
+        },
+        {
+          "id": 381,
+          "civilian": "Xẻng",
+          "undercover": "Cuốc"
+        }
+      ]
+    },
+    {
+      "category": "Ngôn ngữ & Tiền tệ",
+      "pairs": [
+        {
+          "id": 382,
+          "civilian": "Tiếng Việt",
+          "undercover": "Tiếng Thái"
+        },
+        {
+          "id": 383,
+          "civilian": "Tiếng Trung",
+          "undercover": "Tiếng Nhật"
+        },
+        {
+          "id": 384,
+          "civilian": "Tiếng Tây Ban Nha",
+          "undercover": "Tiếng Bồ Đào Nha"
+        },
+        {
+          "id": 385,
+          "civilian": "Đô la",
+          "undercover": "Euro"
+        }
+      ]
+    },
+    {
+      "category": "Phương tiện giao thông đặc biệt",
+      "pairs": [
+        {
+          "id": 386,
+          "civilian": "Taxi",
+          "undercover": "Xe cứu thương"
+        },
+        {
+          "id": 387,
+          "civilian": "Xe cứu hỏa",
+          "undercover": "Xe chở rác"
+        },
+        {
+          "id": 388,
+          "civilian": "Xe bồn",
+          "undercover": "Xe tải"
+        },
+        {
+          "id": 389,
+          "civilian": "Xe container",
+          "undercover": "Xe kéo"
+        },
+        {
+          "id": 390,
+          "civilian": "Xe ba gác",
+          "undercover": "Xích lô"
+        },
+        {
+          "id": 391,
+          "civilian": "Xe lăn",
+          "undercover": "Xe golf"
+        },
+        {
+          "id": 392,
+          "civilian": "Xe nâng hàng",
+          "undercover": "Xe ủi"
+        },
+        {
+          "id": 393,
+          "civilian": "Xe lu",
+          "undercover": "Xe bọc thép"
+        },
+        {
+          "id": 394,
+          "civilian": "Tàu điện ngầm",
+          "undercover": "Tàu hỏa cao tốc"
+        },
+        {
+          "id": 395,
+          "civilian": "Phà",
+          "undercover": "Du thuyền"
+        },
+        {
+          "id": 396,
+          "civilian": "Ca nô",
+          "undercover": "Thuyền buồm"
+        },
+        {
+          "id": 397,
+          "civilian": "Tàu ngầm",
+          "undercover": "Khinh khí cầu"
+        },
+        {
+          "id": 398,
+          "civilian": "Trực thăng",
+          "undercover": "Cáp treo"
+        },
+        {
+          "id": 399,
+          "civilian": "Thang máy",
+          "undercover": "Thang cuốn"
+        },
+        {
+          "id": 400,
+          "civilian": "Xe đạp điện",
+          "undercover": "Xe máy điện"
+        },
+        {
+          "id": 401,
+          "civilian": "Ván trượt điện",
+          "undercover": "Xe scooter"
+        }
+      ]
+    },
+    {
+      "category": "Nguyên liệu nấu ăn",
+      "pairs": [
+        {
+          "id": 402,
+          "civilian": "Muối",
+          "undercover": "Đường"
+        },
+        {
+          "id": 403,
+          "civilian": "Bột ngọt",
+          "undercover": "Hạt nêm"
+        },
+        {
+          "id": 404,
+          "civilian": "Dầu ăn",
+          "undercover": "Mỡ heo"
+        },
+        {
+          "id": 405,
+          "civilian": "Bơ",
+          "undercover": "Nước mắm"
+        },
+        {
+          "id": 406,
+          "civilian": "Xì dầu",
+          "undercover": "Giấm"
+        },
+        {
+          "id": 407,
+          "civilian": "Tương ớt",
+          "undercover": "Tương cà"
+        },
+        {
+          "id": 408,
+          "civilian": "Bột mì",
+          "undercover": "Bột năng"
+        },
+        {
+          "id": 409,
+          "civilian": "Bột gạo",
+          "undercover": "Men nở"
+        },
+        {
+          "id": 410,
+          "civilian": "Sữa tươi",
+          "undercover": "Kem tươi"
+        },
+        {
+          "id": 411,
+          "civilian": "Phô mai",
+          "undercover": "Sữa chua"
+        },
+        {
+          "id": 412,
+          "civilian": "Nước cốt dừa",
+          "undercover": "Rượu nấu ăn"
+        },
+        {
+          "id": 413,
+          "civilian": "Mật ong",
+          "undercover": "Đường phèn"
+        },
+        {
+          "id": 414,
+          "civilian": "Bột nghệ",
+          "undercover": "Bột quế"
+        },
+        {
+          "id": 415,
+          "civilian": "Vani",
+          "undercover": "Baking soda"
+        },
+        {
+          "id": 416,
+          "civilian": "Nước tương",
+          "undercover": "Nước dùng"
+        },
+        {
+          "id": 417,
+          "civilian": "Bột chiên giòn",
+          "undercover": "Bột năng dẻo"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ vệ sinh nhà cửa",
+      "pairs": [
+        {
+          "id": 418,
+          "civilian": "Chổi quét nhà",
+          "undercover": "Cây lau nhà"
+        },
+        {
+          "id": 419,
+          "civilian": "Khăn lau bàn",
+          "undercover": "Giẻ lau"
+        },
+        {
+          "id": 420,
+          "civilian": "Xô nước",
+          "undercover": "Thùng rác"
+        },
+        {
+          "id": 421,
+          "civilian": "Máy hút bụi",
+          "undercover": "Bàn chải cọ toilet"
+        },
+        {
+          "id": 422,
+          "civilian": "Nước lau sàn",
+          "undercover": "Nước rửa kính"
+        },
+        {
+          "id": 423,
+          "civilian": "Găng tay cao su",
+          "undercover": "Bình xịt phòng"
+        },
+        {
+          "id": 424,
+          "civilian": "Nước tẩy rửa",
+          "undercover": "Bột giặt"
+        },
+        {
+          "id": 425,
+          "civilian": "Nước xả vải",
+          "undercover": "Máy giặt"
+        },
+        {
+          "id": 426,
+          "civilian": "Máy sấy quần áo",
+          "undercover": "Bàn ủi"
+        },
+        {
+          "id": 427,
+          "civilian": "Móc phơi đồ",
+          "undercover": "Kẹp phơi đồ"
+        },
+        {
+          "id": 428,
+          "civilian": "Sọt rác",
+          "undercover": "Túi đựng rác"
+        },
+        {
+          "id": 429,
+          "civilian": "Chổi lông gà",
+          "undercover": "Cây gạt nước kính"
+        },
+        {
+          "id": 430,
+          "civilian": "Khăn giấy",
+          "undercover": "Giấy vệ sinh"
+        },
+        {
+          "id": 431,
+          "civilian": "Nước rửa chén",
+          "undercover": "Miếng bọt biển rửa chén"
+        },
+        {
+          "id": 432,
+          "civilian": "Cây thông cống",
+          "undercover": "Nước lau kính"
+        },
+        {
+          "id": 433,
+          "civilian": "Chổi cọ nhà tắm",
+          "undercover": "Xẻng hốt rác"
+        }
+      ]
+    },
+    {
+      "category": "Thiết bị liên lạc",
+      "pairs": [
+        {
+          "id": 434,
+          "civilian": "Điện thoại bàn",
+          "undercover": "Bộ đàm"
+        },
+        {
+          "id": 435,
+          "civilian": "Loa phát thanh",
+          "undercover": "Micro"
+        },
+        {
+          "id": 436,
+          "civilian": "Tai nghe",
+          "undercover": "Webcam"
+        },
+        {
+          "id": 437,
+          "civilian": "Thư tay",
+          "undercover": "Bưu thiếp"
+        },
+        {
+          "id": 438,
+          "civilian": "Máy fax",
+          "undercover": "Chuông cửa"
+        },
+        {
+          "id": 439,
+          "civilian": "Còi xe",
+          "undercover": "Cờ hiệu"
+        },
+        {
+          "id": 440,
+          "civilian": "Đèn tín hiệu",
+          "undercover": "Trống trận"
+        },
+        {
+          "id": 441,
+          "civilian": "Kèn đồng",
+          "undercover": "Loa phóng thanh"
+        },
+        {
+          "id": 442,
+          "civilian": "Radio",
+          "undercover": "Đài truyền hình"
+        },
+        {
+          "id": 443,
+          "civilian": "Bảng thông báo",
+          "undercover": "Loa nội bộ"
+        },
+        {
+          "id": 444,
+          "civilian": "Chuông trường học",
+          "undercover": "Cột thu phát sóng"
+        },
+        {
+          "id": 445,
+          "civilian": "Vệ tinh liên lạc",
+          "undercover": "Ăng-ten"
+        },
+        {
+          "id": 446,
+          "civilian": "Máy nhắn tin",
+          "undercover": "Điện tín"
+        },
+        {
+          "id": 447,
+          "civilian": "Cờ semaphore",
+          "undercover": "Đèn hải đăng"
+        },
+        {
+          "id": 448,
+          "civilian": "Tù và",
+          "undercover": "Mõ làng"
+        },
+        {
+          "id": 449,
+          "civilian": "Loa gọi tàu",
+          "undercover": "Bộ đàm hàng hải"
+        }
+      ]
+    },
+    {
+      "category": "Cấp bậc và nơi học tập",
+      "pairs": [
+        {
+          "id": 450,
+          "civilian": "Trường mầm non",
+          "undercover": "Trường tiểu học"
+        },
+        {
+          "id": 451,
+          "civilian": "Trường trung học cơ sở",
+          "undercover": "Trường trung học phổ thông"
+        },
+        {
+          "id": 452,
+          "civilian": "Trường đại học",
+          "undercover": "Trường cao đẳng"
+        },
+        {
+          "id": 453,
+          "civilian": "Trường dạy nghề",
+          "undercover": "Trung tâm ngoại ngữ"
+        },
+        {
+          "id": 454,
+          "civilian": "Thư viện",
+          "undercover": "Phòng thí nghiệm"
+        },
+        {
+          "id": 455,
+          "civilian": "Giảng đường",
+          "undercover": "Phòng máy tính"
+        },
+        {
+          "id": 456,
+          "civilian": "Sân trường",
+          "undercover": "Căng tin"
+        },
+        {
+          "id": 457,
+          "civilian": "Ký túc xá",
+          "undercover": "Phòng thi"
+        },
+        {
+          "id": 458,
+          "civilian": "Phòng giáo viên",
+          "undercover": "Phòng y tế học đường"
+        },
+        {
+          "id": 459,
+          "civilian": "Nhà thể chất",
+          "undercover": "Bảng đen"
+        },
+        {
+          "id": 460,
+          "civilian": "Bảng trắng",
+          "undercover": "Máy chiếu"
+        },
+        {
+          "id": 461,
+          "civilian": "Học bổng",
+          "undercover": "Bằng tốt nghiệp"
+        },
+        {
+          "id": 462,
+          "civilian": "Chứng chỉ",
+          "undercover": "Luận văn"
+        },
+        {
+          "id": 463,
+          "civilian": "Bài kiểm tra",
+          "undercover": "Học phí"
+        },
+        {
+          "id": 464,
+          "civilian": "Giáo trình",
+          "undercover": "Thời khóa biểu"
+        },
+        {
+          "id": 465,
+          "civilian": "Sổ liên lạc",
+          "undercover": "Học bạ"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ và sân thể thao",
+      "pairs": [
+        {
+          "id": 466,
+          "civilian": "Sân bóng đá",
+          "undercover": "Sân bóng rổ"
+        },
+        {
+          "id": 467,
+          "civilian": "Sân tennis",
+          "undercover": "Sân cầu lông"
+        },
+        {
+          "id": 468,
+          "civilian": "Hồ bơi thi đấu",
+          "undercover": "Phòng gym"
+        },
+        {
+          "id": 469,
+          "civilian": "Sân vận động",
+          "undercover": "Đường chạy điền kinh"
+        },
+        {
+          "id": 470,
+          "civilian": "Xà đơn",
+          "undercover": "Xà kép"
+        },
+        {
+          "id": 471,
+          "civilian": "Tạ tay",
+          "undercover": "Tạ đòn"
+        },
+        {
+          "id": 472,
+          "civilian": "Vợt tennis",
+          "undercover": "Gậy đánh golf"
+        },
+        {
+          "id": 473,
+          "civilian": "Giày thể thao",
+          "undercover": "Áo đấu"
+        },
+        {
+          "id": 474,
+          "civilian": "Còi trọng tài",
+          "undercover": "Huy chương thể thao"
+        },
+        {
+          "id": 475,
+          "civilian": "Cúp vô địch",
+          "undercover": "Băng quấn tập"
+        },
+        {
+          "id": 476,
+          "civilian": "Thảm tập yoga",
+          "undercover": "Dây nhảy"
+        },
+        {
+          "id": 477,
+          "civilian": "Ván trượt tuyết",
+          "undercover": "Xe đạp đua"
+        },
+        {
+          "id": 478,
+          "civilian": "Giáp bảo hộ",
+          "undercover": "Nón bảo hiểm thể thao"
+        },
+        {
+          "id": 479,
+          "civilian": "Đồng hồ bấm giờ",
+          "undercover": "Lưới bóng chuyền"
+        },
+        {
+          "id": 480,
+          "civilian": "Rổ bóng rổ",
+          "undercover": "Khung thành"
+        },
+        {
+          "id": 481,
+          "civilian": "Bàn đạp xuất phát",
+          "undercover": "Ghế trọng tài"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ thủ công",
+      "pairs": [
+        {
+          "id": 482,
+          "civilian": "Kim khâu",
+          "undercover": "Chỉ may"
+        },
+        {
+          "id": 483,
+          "civilian": "Kéo cắt vải",
+          "undercover": "Keo dán"
+        },
+        {
+          "id": 484,
+          "civilian": "Băng keo",
+          "undercover": "Bút chì màu"
+        },
+        {
+          "id": 485,
+          "civilian": "Giấy màu",
+          "undercover": "Đất nặn"
+        },
+        {
+          "id": 486,
+          "civilian": "Cọ vẽ",
+          "undercover": "Màu nước"
+        },
+        {
+          "id": 487,
+          "civilian": "Sơn dầu",
+          "undercover": "Khung tranh"
+        },
+        {
+          "id": 488,
+          "civilian": "Dao rọc giấy",
+          "undercover": "Compa"
+        },
+        {
+          "id": 489,
+          "civilian": "Bút lông",
+          "undercover": "Vải nỉ"
+        },
+        {
+          "id": 490,
+          "civilian": "Cuộn len",
+          "undercover": "Móc len"
+        },
+        {
+          "id": 491,
+          "civilian": "Kim đan len",
+          "undercover": "Máy khâu"
+        },
+        {
+          "id": 492,
+          "civilian": "Búa nhỏ",
+          "undercover": "Kìm bấm"
+        },
+        {
+          "id": 493,
+          "civilian": "Tua vít mini",
+          "undercover": "Dây kẽm"
+        },
+        {
+          "id": 494,
+          "civilian": "Khuôn làm bánh",
+          "undercover": "Cúc áo"
+        },
+        {
+          "id": 495,
+          "civilian": "Dây ruy băng",
+          "undercover": "Giấy gói quà"
+        },
+        {
+          "id": 496,
+          "civilian": "Bìa carton",
+          "undercover": "Que kem"
+        },
+        {
+          "id": 497,
+          "civilian": "Hạt cườm",
+          "undercover": "Khung thêu"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ ăn uống",
+      "pairs": [
+        {
+          "id": 498,
+          "civilian": "Đôi đũa",
+          "undercover": "Muỗng canh"
+        },
+        {
+          "id": 499,
+          "civilian": "Nĩa",
+          "undercover": "Dao ăn"
+        },
+        {
+          "id": 500,
+          "civilian": "Chén cơm",
+          "undercover": "Bát tô"
+        },
+        {
+          "id": 501,
+          "civilian": "Đĩa sứ",
+          "undercover": "Ly thủy tinh"
+        },
+        {
+          "id": 502,
+          "civilian": "Cốc sứ",
+          "undercover": "Khay đựng thức ăn"
+        },
+        {
+          "id": 503,
+          "civilian": "Thớt gỗ",
+          "undercover": "Nồi cơm điện"
+        },
+        {
+          "id": 504,
+          "civilian": "Chảo chống dính",
+          "undercover": "Ấm đun nước"
+        },
+        {
+          "id": 505,
+          "civilian": "Bình giữ nhiệt",
+          "undercover": "Ống hút"
+        },
+        {
+          "id": 506,
+          "civilian": "Khăn ăn",
+          "undercover": "Yếm ăn dặm"
+        },
+        {
+          "id": 507,
+          "civilian": "Ghế ăn cho bé",
+          "undercover": "Bàn ăn"
+        },
+        {
+          "id": 508,
+          "civilian": "Tủ lạnh",
+          "undercover": "Lò vi sóng"
+        },
+        {
+          "id": 509,
+          "civilian": "Máy pha cà phê",
+          "undercover": "Máy xay sinh tố"
+        },
+        {
+          "id": 510,
+          "civilian": "Hộp đựng thức ăn",
+          "undercover": "Giỏ đựng trái cây"
+        },
+        {
+          "id": 511,
+          "civilian": "Kệ để gia vị",
+          "undercover": "Tấm lót ly"
+        },
+        {
+          "id": 512,
+          "civilian": "Khăn trải bàn",
+          "undercover": "Nắp đậy nồi"
+        },
+        {
+          "id": 513,
+          "civilian": "Vá múc canh",
+          "undercover": "Dĩa xiên"
+        }
+      ]
+    },
+    {
+      "category": "Biểu tượng và nội dung mạng xã hội",
+      "pairs": [
+        {
+          "id": 514,
+          "civilian": "Emoji cười",
+          "undercover": "Emoji khóc"
+        },
+        {
+          "id": 515,
+          "civilian": "Emoji giận",
+          "undercover": "Emoji ngạc nhiên"
+        },
+        {
+          "id": 516,
+          "civilian": "Sticker",
+          "undercover": "Ảnh chế"
+        },
+        {
+          "id": 517,
+          "civilian": "Icon trái tim",
+          "undercover": "Icon like"
+        },
+        {
+          "id": 518,
+          "civilian": "Nhãn dán",
+          "undercover": "Hình đại diện"
+        },
+        {
+          "id": 519,
+          "civilian": "Ảnh bìa trang cá nhân",
+          "undercover": "Story"
+        },
+        {
+          "id": 520,
+          "civilian": "Bình luận",
+          "undercover": "Lượt thích"
+        },
+        {
+          "id": 521,
+          "civilian": "Lượt chia sẻ",
+          "undercover": "Lượt xem"
+        },
+        {
+          "id": 522,
+          "civilian": "Video ngắn",
+          "undercover": "Clip hài"
+        },
+        {
+          "id": 523,
+          "civilian": "Bài đăng",
+          "undercover": "Hashtag"
+        },
+        {
+          "id": 524,
+          "civilian": "Video trực tiếp",
+          "undercover": "Kênh Youtube"
+        },
+        {
+          "id": 525,
+          "civilian": "Trang mạng xã hội",
+          "undercover": "Tin nhắn thoại"
+        },
+        {
+          "id": 526,
+          "civilian": "Cuộc gọi video",
+          "undercover": "Danh sách bạn bè"
+        },
+        {
+          "id": 527,
+          "civilian": "Nhóm chat",
+          "undercover": "Trạng thái cảm xúc"
+        },
+        {
+          "id": 528,
+          "civilian": "Ảnh selfie",
+          "undercover": "Bộ lọc ảnh"
+        },
+        {
+          "id": 529,
+          "civilian": "Khung ảnh sinh nhật",
+          "undercover": "Huy hiệu thành tích"
+        }
+      ]
+    },
+    {
+      "category": "Văn phòng phẩm",
+      "pairs": [
+        {
+          "id": 530,
+          "civilian": "Bút bi",
+          "undercover": "Bút chì"
+        },
+        {
+          "id": 531,
+          "civilian": "Bút xóa",
+          "undercover": "Kẹp giấy"
+        },
+        {
+          "id": 532,
+          "civilian": "Ghim bấm",
+          "undercover": "Máy bấm kim"
+        },
+        {
+          "id": 533,
+          "civilian": "Băng dính",
+          "undercover": "Hồ dán"
+        },
+        {
+          "id": 534,
+          "civilian": "Kéo văn phòng",
+          "undercover": "Sổ tay"
+        },
+        {
+          "id": 535,
+          "civilian": "Lịch để bàn",
+          "undercover": "Kẹp hồ sơ"
+        },
+        {
+          "id": 536,
+          "civilian": "Bìa còng",
+          "undercover": "Máy in"
+        },
+        {
+          "id": 537,
+          "civilian": "Máy photocopy",
+          "undercover": "Con dấu"
+        },
+        {
+          "id": 538,
+          "civilian": "Mực dấu",
+          "undercover": "Giấy A4"
+        },
+        {
+          "id": 539,
+          "civilian": "Phong bì thư",
+          "undercover": "Tem thư"
+        },
+        {
+          "id": 540,
+          "civilian": "Máy tính bỏ túi",
+          "undercover": "Bảng ghim thông báo"
+        },
+        {
+          "id": 541,
+          "civilian": "Kệ đựng tài liệu",
+          "undercover": "Đèn bàn làm việc"
+        },
+        {
+          "id": 542,
+          "civilian": "Ghế xoay văn phòng",
+          "undercover": "Tủ hồ sơ"
+        },
+        {
+          "id": 543,
+          "civilian": "Máy hủy giấy",
+          "undercover": "USB"
+        },
+        {
+          "id": 544,
+          "civilian": "Ổ cứng di động",
+          "undercover": "Chuột máy tính"
+        },
+        {
+          "id": 545,
+          "civilian": "Bàn phím",
+          "undercover": "Thẻ nhân viên"
+        }
+      ]
+    },
+    {
+      "category": "Nơi và vật dụng nghỉ ngơi",
+      "pairs": [
+        {
+          "id": 546,
+          "civilian": "Giường ngủ",
+          "undercover": "Nệm"
+        },
+        {
+          "id": 547,
+          "civilian": "Gối ôm",
+          "undercover": "Chăn mền"
+        },
+        {
+          "id": 548,
+          "civilian": "Võng nằm",
+          "undercover": "Ghế sofa"
+        },
+        {
+          "id": 549,
+          "civilian": "Ghế bố",
+          "undercover": "Ghế xích đu"
+        },
+        {
+          "id": 550,
+          "civilian": "Giường tầng",
+          "undercover": "Túi ngủ"
+        },
+        {
+          "id": 551,
+          "civilian": "Lều cắm trại",
+          "undercover": "Ghế thư giãn"
+        },
+        {
+          "id": 552,
+          "civilian": "Bồn tắm",
+          "undercover": "Phòng xông hơi"
+        },
+        {
+          "id": 553,
+          "civilian": "Ghế massage",
+          "undercover": "Nến thơm"
+        },
+        {
+          "id": 554,
+          "civilian": "Tinh dầu thư giãn",
+          "undercover": "Trà thảo mộc"
+        },
+        {
+          "id": 555,
+          "civilian": "Sách giải trí",
+          "undercover": "Nhạc thư giãn"
+        },
+        {
+          "id": 556,
+          "civilian": "Đu đưa ngoài vườn",
+          "undercover": "Ban công nghỉ ngơi"
+        },
+        {
+          "id": 557,
+          "civilian": "Quán cà phê",
+          "undercover": "Vườn hoa"
+        },
+        {
+          "id": 558,
+          "civilian": "Bãi biển nghỉ dưỡng",
+          "undercover": "Khu nghỉ dưỡng"
+        },
+        {
+          "id": 559,
+          "civilian": "Gối chữ U",
+          "undercover": "Rèm che nắng"
+        },
+        {
+          "id": 560,
+          "civilian": "Đèn ngủ",
+          "undercover": "Máy tạo tiếng ồn trắng"
+        },
+        {
+          "id": 561,
+          "civilian": "Chăn điện",
+          "undercover": "Áo choàng tắm"
+        }
+      ]
+    },
+    {
+      "category": "Đồ nghề sửa chữa",
+      "pairs": [
+        {
+          "id": 562,
+          "civilian": "Cái búa",
+          "undercover": "Cờ lê"
+        },
+        {
+          "id": 563,
+          "civilian": "Mỏ lết",
+          "undercover": "Kìm điện"
+        },
+        {
+          "id": 564,
+          "civilian": "Tua vít",
+          "undercover": "Máy khoan"
+        },
+        {
+          "id": 565,
+          "civilian": "Cưa gỗ",
+          "undercover": "Cái bay"
+        },
+        {
+          "id": 566,
+          "civilian": "Thước dây",
+          "undercover": "Ni vô"
+        },
+        {
+          "id": 567,
+          "civilian": "Máy mài",
+          "undercover": "Máy hàn"
+        },
+        {
+          "id": 568,
+          "civilian": "Cái xẻng",
+          "undercover": "Cái cuốc"
+        },
+        {
+          "id": 569,
+          "civilian": "Giấy nhám",
+          "undercover": "Giàn giáo"
+        },
+        {
+          "id": 570,
+          "civilian": "Xe rùa",
+          "undercover": "Bao xi măng"
+        },
+        {
+          "id": 571,
+          "civilian": "Bao cát xây dựng",
+          "undercover": "Viên gạch"
+        },
+        {
+          "id": 572,
+          "civilian": "Tấm tôn",
+          "undercover": "Tấm ván gỗ"
+        },
+        {
+          "id": 573,
+          "civilian": "Thùng sơn tường",
+          "undercover": "Cây cọ sơn"
+        },
+        {
+          "id": 574,
+          "civilian": "Con lăn sơn",
+          "undercover": "Cái thang"
+        },
+        {
+          "id": 575,
+          "civilian": "Đinh ốc",
+          "undercover": "Bu lông"
+        },
+        {
+          "id": 576,
+          "civilian": "Đai ốc",
+          "undercover": "Băng keo điện"
+        },
+        {
+          "id": 577,
+          "civilian": "Dây điện",
+          "undercover": "Ổ cắm điện"
+        }
+      ]
+    },
+    {
+      "category": "Loại hình nghệ thuật",
+      "pairs": [
+        {
+          "id": 578,
+          "civilian": "Hội họa",
+          "undercover": "Điêu khắc"
+        },
+        {
+          "id": 579,
+          "civilian": "Thư pháp",
+          "undercover": "Gốm sứ nghệ thuật"
+        },
+        {
+          "id": 580,
+          "civilian": "Nhiếp ảnh",
+          "undercover": "Múa ba lê"
+        },
+        {
+          "id": 581,
+          "civilian": "Kịch nói",
+          "undercover": "Xiếc"
+        },
+        {
+          "id": 582,
+          "civilian": "Ảo thuật",
+          "undercover": "Thời trang"
+        },
+        {
+          "id": 583,
+          "civilian": "Kiến trúc",
+          "undercover": "Đồ họa"
+        },
+        {
+          "id": 584,
+          "civilian": "Phim hoạt hình",
+          "undercover": "Origami"
+        },
+        {
+          "id": 585,
+          "civilian": "Tranh cát",
+          "undercover": "Tranh sơn dầu"
+        },
+        {
+          "id": 586,
+          "civilian": "Tranh thủy mặc",
+          "undercover": "Tranh lụa"
+        },
+        {
+          "id": 587,
+          "civilian": "Nghệ thuật Graffiti",
+          "undercover": "Điêu khắc gỗ"
+        },
+        {
+          "id": 588,
+          "civilian": "Nghệ thuật gốm",
+          "undercover": "Đan len nghệ thuật"
+        },
+        {
+          "id": 589,
+          "civilian": "Thêu thùa",
+          "undercover": "Nghệ thuật cắt giấy"
+        },
+        {
+          "id": 590,
+          "civilian": "Nghệ thuật xăm hình",
+          "undercover": "Vẽ Henna"
+        },
+        {
+          "id": 591,
+          "civilian": "Nghệ thuật ghép tranh",
+          "undercover": "Điêu khắc băng"
+        },
+        {
+          "id": 592,
+          "civilian": "Nghệ thuật sắp đặt",
+          "undercover": "Nghệ thuật đường phố"
+        },
+        {
+          "id": 593,
+          "civilian": "Múa đương đại",
+          "undercover": "Kịch câm"
+        }
+      ]
+    },
+    {
+      "category": "Cửa hàng và địa điểm mua sắm",
+      "pairs": [
+        {
+          "id": 594,
+          "civilian": "Siêu thị",
+          "undercover": "Chợ truyền thống"
+        },
+        {
+          "id": 595,
+          "civilian": "Trung tâm thương mại",
+          "undercover": "Cửa hàng tiện lợi"
+        },
+        {
+          "id": 596,
+          "civilian": "Tiệm tạp hóa",
+          "undercover": "Chợ đêm"
+        },
+        {
+          "id": 597,
+          "civilian": "Cửa hàng outlet",
+          "undercover": "Sàn thương mại điện tử"
+        },
+        {
+          "id": 598,
+          "civilian": "Quầy thu ngân",
+          "undercover": "Xe đẩy hàng"
+        },
+        {
+          "id": 599,
+          "civilian": "Giỏ đựng hàng",
+          "undercover": "Hóa đơn mua hàng"
+        },
+        {
+          "id": 600,
+          "civilian": "Thẻ thành viên",
+          "undercover": "Phiếu giảm giá"
+        },
+        {
+          "id": 601,
+          "civilian": "Mã giảm giá",
+          "undercover": "Túi mua sắm"
+        },
+        {
+          "id": 602,
+          "civilian": "Kệ trưng bày hàng",
+          "undercover": "Tủ đông siêu thị"
+        },
+        {
+          "id": 603,
+          "civilian": "Máy quét mã vạch",
+          "undercover": "Bảo vệ siêu thị"
+        },
+        {
+          "id": 604,
+          "civilian": "Nhân viên bán hàng",
+          "undercover": "Khu vui chơi trẻ em trong trung tâm thương mại"
+        },
+        {
+          "id": 605,
+          "civilian": "Bãi giữ xe",
+          "undercover": "Cây ATM"
+        },
+        {
+          "id": 606,
+          "civilian": "Phòng thử đồ",
+          "undercover": "Gương soi toàn thân"
+        },
+        {
+          "id": 607,
+          "civilian": "Ma-nơ-canh",
+          "undercover": "Biển giảm giá"
+        },
+        {
+          "id": 608,
+          "civilian": "Quầy tính tiền tự động",
+          "undercover": "Nhân viên bảo vệ chợ"
+        },
+        {
+          "id": 609,
+          "civilian": "Kệ hàng khuyến mãi",
+          "undercover": "Cổng an ninh từ"
+        }
+      ]
+    },
+    {
+      "category": "Địa điểm du lịch",
+      "pairs": [
+        {
+          "id": 610,
+          "civilian": "Bãi biển",
+          "undercover": "Đỉnh núi"
+        },
+        {
+          "id": 611,
+          "civilian": "Hồ nước",
+          "undercover": "Thác nước"
+        },
+        {
+          "id": 612,
+          "civilian": "Khu rừng nguyên sinh",
+          "undercover": "Sa mạc"
+        },
+        {
+          "id": 613,
+          "civilian": "Hòn đảo",
+          "undercover": "Hang động"
+        },
+        {
+          "id": 614,
+          "civilian": "Công viên quốc gia",
+          "undercover": "Khu nghỉ dưỡng"
+        },
+        {
+          "id": 615,
+          "civilian": "Khách sạn",
+          "undercover": "Homestay"
+        },
+        {
+          "id": 616,
+          "civilian": "Vali du lịch",
+          "undercover": "Hộ chiếu"
+        },
+        {
+          "id": 617,
+          "civilian": "Vé máy bay",
+          "undercover": "Bản đồ du lịch"
+        },
+        {
+          "id": 618,
+          "civilian": "La bàn",
+          "undercover": "Kính râm"
+        },
+        {
+          "id": 619,
+          "civilian": "Máy ảnh du lịch",
+          "undercover": "Hướng dẫn viên du lịch"
+        },
+        {
+          "id": 620,
+          "civilian": "Tour du lịch",
+          "undercover": "Xe khách đường dài"
+        },
+        {
+          "id": 621,
+          "civilian": "Ga tàu",
+          "undercover": "Cảng biển"
+        },
+        {
+          "id": 622,
+          "civilian": "Đặc sản địa phương",
+          "undercover": "Quà lưu niệm"
+        },
+        {
+          "id": 623,
+          "civilian": "Lều trại",
+          "undercover": "Ba lô leo núi"
+        },
+        {
+          "id": 624,
+          "civilian": "Kem chống nắng",
+          "undercover": "Áo phao cứu sinh"
+        }
+      ]
+    },
+    {
+      "category": "Thiết bị lặn biển và câu cá",
+      "pairs": [
+        {
+          "id": 625,
+          "civilian": "Bình dưỡng khí",
+          "undercover": "Kính lặn"
+        },
+        {
+          "id": 626,
+          "civilian": "Chân vịt bơi",
+          "undercover": "Đồ bơi"
+        },
+        {
+          "id": 627,
+          "civilian": "Áo phao",
+          "undercover": "Ống thở lặn"
+        },
+        {
+          "id": 628,
+          "civilian": "Đồng hồ đo độ sâu",
+          "undercover": "Đèn pin lặn đêm"
+        },
+        {
+          "id": 629,
+          "civilian": "Bộ đồ lặn wetsuit",
+          "undercover": "Vợt bắt cá"
+        },
+        {
+          "id": 630,
+          "civilian": "Cần câu cá",
+          "undercover": "Lưỡi câu"
+        },
+        {
+          "id": 631,
+          "civilian": "Mồi câu cá",
+          "undercover": "Thuyền câu"
+        },
+        {
+          "id": 632,
+          "civilian": "Lưới đánh cá",
+          "undercover": "Phao câu cá"
+        },
+        {
+          "id": 633,
+          "civilian": "Xuồng cao su",
+          "undercover": "Chiếc bè"
+        },
+        {
+          "id": 634,
+          "civilian": "Rạn san hô",
+          "undercover": "Vỏ sò"
+        },
+        {
+          "id": 635,
+          "civilian": "Vỏ ốc biển",
+          "undercover": "Rong biển"
+        },
+        {
+          "id": 636,
+          "civilian": "Cát biển",
+          "undercover": "Đá ngầm"
+        },
+        {
+          "id": 637,
+          "civilian": "Hải đăng",
+          "undercover": "Bến cảng cá"
+        },
+        {
+          "id": 638,
+          "civilian": "Thùng ướp cá",
+          "undercover": "Giỏ đựng cá"
+        },
+        {
+          "id": 639,
+          "civilian": "Máy dò cá",
+          "undercover": "Áo mưa đi biển"
+        }
+      ]
+    },
+    {
+      "category": "Thiết bị âm thanh",
+      "pairs": [
+        {
+          "id": 640,
+          "civilian": "Loa kéo",
+          "undercover": "Ampli"
+        },
+        {
+          "id": 641,
+          "civilian": "Bàn mixer âm thanh",
+          "undercover": "Loa bluetooth"
+        },
+        {
+          "id": 642,
+          "civilian": "Đàn organ điện",
+          "undercover": "Máy hát karaoke"
+        },
+        {
+          "id": 643,
+          "civilian": "Micro không dây",
+          "undercover": "Chân đế micro"
+        },
+        {
+          "id": 644,
+          "civilian": "Cục đẩy công suất",
+          "undercover": "Loa siêu trầm"
+        },
+        {
+          "id": 645,
+          "civilian": "Tai nghe chống ồn",
+          "undercover": "Đầu đĩa cassette"
+        },
+        {
+          "id": 646,
+          "civilian": "Đầu đĩa CD",
+          "undercover": "Đĩa than"
+        },
+        {
+          "id": 647,
+          "civilian": "Máy hát đĩa than",
+          "undercover": "Chuông gió"
+        },
+        {
+          "id": 648,
+          "civilian": "Chuông cửa nhà",
+          "undercover": "Vách cách âm"
+        },
+        {
+          "id": 649,
+          "civilian": "Phòng thu âm",
+          "undercover": "Dây cáp âm thanh"
+        },
+        {
+          "id": 650,
+          "civilian": "Jack cắm tai nghe",
+          "undercover": "Loa vòm rạp phim"
+        },
+        {
+          "id": 651,
+          "civilian": "Bộ chỉnh Equalizer",
+          "undercover": "Máy đo Decibel"
+        },
+        {
+          "id": 652,
+          "civilian": "Loa hội trường",
+          "undercover": "Micro cài áo"
+        },
+        {
+          "id": 653,
+          "civilian": "Bộ khuếch đại âm thanh",
+          "undercover": "Đài phát thanh cũ"
+        },
+        {
+          "id": 654,
+          "civilian": "Loa thùng",
+          "undercover": "Ống nghe bác sĩ"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ quan sát",
+      "pairs": [
+        {
+          "id": 655,
+          "civilian": "Kính hiển vi",
+          "undercover": "Kính viễn vọng"
+        },
+        {
+          "id": 656,
+          "civilian": "Ống nhòm",
+          "undercover": "Kính lúp"
+        },
+        {
+          "id": 657,
+          "civilian": "Kính thiên văn",
+          "undercover": "Camera an ninh"
+        },
+        {
+          "id": 658,
+          "civilian": "Máy quay phim",
+          "undercover": "Máy bay không người lái"
+        },
+        {
+          "id": 659,
+          "civilian": "Gương chiếu hậu",
+          "undercover": "Kính áp tròng"
+        },
+        {
+          "id": 660,
+          "civilian": "Kính bơi",
+          "undercover": "Kính bảo hộ lao động"
+        },
+        {
+          "id": 661,
+          "civilian": "Đèn pin",
+          "undercover": "Đèn pha ô tô"
+        },
+        {
+          "id": 662,
+          "civilian": "Ống kính máy ảnh",
+          "undercover": "Chân máy ảnh"
+        },
+        {
+          "id": 663,
+          "civilian": "Máy chiếu phim",
+          "undercover": "Kính nhìn hồng ngoại"
+        },
+        {
+          "id": 664,
+          "civilian": "Radar theo dõi",
+          "undercover": "Vệ tinh quan sát trái đất"
+        },
+        {
+          "id": 665,
+          "civilian": "Cửa sổ kính",
+          "undercover": "Rèm cửa sổ"
+        },
+        {
+          "id": 666,
+          "civilian": "Kính chắn gió ô tô",
+          "undercover": "Gương soi toàn thân"
+        },
+        {
+          "id": 667,
+          "civilian": "Kính lúp đọc sách",
+          "undercover": "Kính thợ kim hoàn"
+        },
+        {
+          "id": 668,
+          "civilian": "Kính lặn quan sát",
+          "undercover": "Máy dò kim loại"
+        },
+        {
+          "id": 669,
+          "civilian": "Tháp canh",
+          "undercover": "Đài quan sát thiên văn"
+        }
+      ]
+    },
+    {
+      "category": "Quà tặng và trao nhận",
+      "pairs": [
+        {
+          "id": 670,
+          "civilian": "Hộp quà sinh nhật",
+          "undercover": "Giấy gói quà"
+        },
+        {
+          "id": 671,
+          "civilian": "Thiệp chúc mừng",
+          "undercover": "Phong bì lì xì"
+        },
+        {
+          "id": 672,
+          "civilian": "Bó hoa tặng",
+          "undercover": "Giỏ quà tặng"
+        },
+        {
+          "id": 673,
+          "civilian": "Phiếu quà tặng",
+          "undercover": "Thùng quyên góp từ thiện"
+        },
+        {
+          "id": 674,
+          "civilian": "Đồ cứu trợ thiên tai",
+          "undercover": "Suất học bổng"
+        },
+        {
+          "id": 675,
+          "civilian": "Huy chương trao giải",
+          "undercover": "Bằng khen"
+        },
+        {
+          "id": 676,
+          "civilian": "Cúp lưu niệm",
+          "undercover": "Tiền thưởng"
+        },
+        {
+          "id": 677,
+          "civilian": "Tiền tip",
+          "undercover": "Bao lì xì đỏ"
+        },
+        {
+          "id": 678,
+          "civilian": "Sính lễ cưới hỏi",
+          "undercover": "Quà cưới"
+        },
+        {
+          "id": 679,
+          "civilian": "Quà Giáng sinh",
+          "undercover": "Quà Tết Nguyên Đán"
+        },
+        {
+          "id": 680,
+          "civilian": "Túi quà từ thiện",
+          "undercover": "Di chúc thừa kế"
+        },
+        {
+          "id": 681,
+          "civilian": "Của hồi môn",
+          "undercover": "Thiệp cảm ơn"
+        },
+        {
+          "id": 682,
+          "civilian": "Hộp bánh biếu Tết",
+          "undercover": "Giỏ trái cây thăm bệnh"
+        },
+        {
+          "id": 683,
+          "civilian": "Vòng hoa chúc mừng",
+          "undercover": "Bằng khen thi đua"
+        },
+        {
+          "id": 684,
+          "civilian": "Cây bút kỷ niệm",
+          "undercover": "Sổ tay lưu bút"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ thi đấu",
+      "pairs": [
+        {
+          "id": 685,
+          "civilian": "Còi trọng tài",
+          "undercover": "Thẻ vàng"
+        },
+        {
+          "id": 686,
+          "civilian": "Thẻ đỏ",
+          "undercover": "Cúp vô địch"
+        },
+        {
+          "id": 687,
+          "civilian": "Huy chương vàng",
+          "undercover": "Bảng tỷ số"
+        },
+        {
+          "id": 688,
+          "civilian": "Võ đài",
+          "undercover": "Đai vô địch"
+        },
+        {
+          "id": 689,
+          "civilian": "Găng tay boxing",
+          "undercover": "Cung tên thi đấu"
+        },
+        {
+          "id": 690,
+          "civilian": "Bia bắn cung",
+          "undercover": "Đồng hồ thi đấu cờ vua"
+        },
+        {
+          "id": 691,
+          "civilian": "Vạch xuất phát",
+          "undercover": "Vạch đích"
+        },
+        {
+          "id": 692,
+          "civilian": "Khán đài cổ động viên",
+          "undercover": "Băng đội trưởng"
+        },
+        {
+          "id": 693,
+          "civilian": "Ghế dự bị",
+          "undercover": "Bàn cờ vua"
+        },
+        {
+          "id": 694,
+          "civilian": "Quân cờ",
+          "undercover": "Bàn bi-a"
+        },
+        {
+          "id": 695,
+          "civilian": "Gậy chơi bi-a",
+          "undercover": "Lưới bóng bàn"
+        },
+        {
+          "id": 696,
+          "civilian": "Vợt bóng bàn",
+          "undercover": "Bảng điện tử tính điểm"
+        },
+        {
+          "id": 697,
+          "civilian": "Đấu trường thi đấu",
+          "undercover": "Vòng nguyệt quế"
+        },
+        {
+          "id": 698,
+          "civilian": "Bục nhận huy chương",
+          "undercover": "Trống cổ vũ"
+        },
+        {
+          "id": 699,
+          "civilian": "Cờ Tổ quốc cổ vũ",
+          "undercover": "Ống loa cổ vũ"
+        }
+      ]
+    },
+    {
+      "category": "Dụng cụ đo lường",
+      "pairs": [
+        {
+          "id": 700,
+          "civilian": "Cân đồng hồ",
+          "undercover": "Cân điện tử"
+        },
+        {
+          "id": 701,
+          "civilian": "Thước dây",
+          "undercover": "Thước kẻ"
+        },
+        {
+          "id": 702,
+          "civilian": "Thước cuộn",
+          "undercover": "Compa đo"
+        },
+        {
+          "id": 703,
+          "civilian": "Cân sức khỏe",
+          "undercover": "Cân tiểu ly"
+        },
+        {
+          "id": 704,
+          "civilian": "Nhiệt kế",
+          "undercover": "Áp kế"
+        },
+        {
+          "id": 705,
+          "civilian": "Vôn kế",
+          "undercover": "Thước cặp"
+        },
+        {
+          "id": 706,
+          "civilian": "Máy đo khoảng cách laser",
+          "undercover": "Đồng hồ đo điện"
+        },
+        {
+          "id": 707,
+          "civilian": "Đồng hồ đo nước",
+          "undercover": "Máy đo huyết áp"
+        },
+        {
+          "id": 708,
+          "civilian": "Cân bàn chợ",
+          "undercover": "Thước đo góc"
+        },
+        {
+          "id": 709,
+          "civilian": "Máy đo tốc độ gió",
+          "undercover": "Máy đo độ ẩm"
+        },
+        {
+          "id": 710,
+          "civilian": "Bình chia độ",
+          "undercover": "Ống đong"
+        },
+        {
+          "id": 711,
+          "civilian": "Cân treo",
+          "undercover": "Máy đo pH"
+        },
+        {
+          "id": 712,
+          "civilian": "Thước đo may",
+          "undercover": "Đồng hồ bấm giờ"
+        },
+        {
+          "id": 713,
+          "civilian": "Máy đo nhịp tim",
+          "undercover": "Cân điện tử nhà bếp"
+        },
+        {
+          "id": 714,
+          "civilian": "Thước thợ mộc",
+          "undercover": "Máy đo khí gas"
+        },
+        {
+          "id": 715,
+          "civilian": "Máy đo nồng độ cồn",
+          "undercover": "Thước Level"
+        }
+      ]
+    },
+    {
+      "category": "Phương tiện tốc độ",
+      "pairs": [
+        {
+          "id": 716,
+          "civilian": "Siêu xe thể thao",
+          "undercover": "Xe đua công thức 1"
+        },
+        {
+          "id": 717,
+          "civilian": "Máy bay phản lực",
+          "undercover": "Tàu cao tốc"
+        },
+        {
+          "id": 718,
+          "civilian": "Tàu điện siêu tốc",
+          "undercover": "Mô tô phân khối lớn"
+        },
+        {
+          "id": 719,
+          "civilian": "Tàu vũ trụ",
+          "undercover": "Tên lửa đẩy"
+        },
+        {
+          "id": 720,
+          "civilian": "Thang máy tốc hành",
+          "undercover": "Xe đạp đua"
+        },
+        {
+          "id": 721,
+          "civilian": "Thuyền cao tốc",
+          "undercover": "Ca nô lướt sóng"
+        },
+        {
+          "id": 722,
+          "civilian": "Tàu lượn siêu tốc",
+          "undercover": "Xe trượt tuyết"
+        },
+        {
+          "id": 723,
+          "civilian": "Xe scooter điện",
+          "undercover": "Ván trượt tốc độ"
+        },
+        {
+          "id": 724,
+          "civilian": "Xe rùa kéo hàng",
+          "undercover": "Xe bò kéo"
+        },
+        {
+          "id": 725,
+          "civilian": "Xe đạp thồ",
+          "undercover": "Xích lô đạp"
+        },
+        {
+          "id": 726,
+          "civilian": "Thuyền thúng",
+          "undercover": "Xe cút kít"
+        },
+        {
+          "id": 727,
+          "civilian": "Xe lăn tay",
+          "undercover": "Bè tre"
+        },
+        {
+          "id": 728,
+          "civilian": "Ốc sên",
+          "undercover": "Rùa cạn"
+        },
+        {
+          "id": 729,
+          "civilian": "Báo Gêpa",
+          "undercover": "Chim ưng"
+        },
+        {
+          "id": 730,
+          "civilian": "Cá heo",
+          "undercover": "Tia chớp"
+        }
+      ]
+    },
+    {
+      "category": "Thiết bị điều chỉnh nhiệt độ",
+      "pairs": [
+        {
+          "id": 731,
+          "civilian": "Máy điều hòa",
+          "undercover": "Quạt máy"
+        },
+        {
+          "id": 732,
+          "civilian": "Máy sưởi",
+          "undercover": "Lò sưởi"
+        },
+        {
+          "id": 733,
+          "civilian": "Tủ lạnh",
+          "undercover": "Tủ đông"
+        },
+        {
+          "id": 734,
+          "civilian": "Bình giữ nhiệt",
+          "undercover": "Túi chườm nóng"
+        },
+        {
+          "id": 735,
+          "civilian": "Túi chườm lạnh",
+          "undercover": "Chăn điện"
+        },
+        {
+          "id": 736,
+          "civilian": "Lò nướng",
+          "undercover": "Máy sấy tóc"
+        },
+        {
+          "id": 737,
+          "civilian": "Bếp gas",
+          "undercover": "Bếp điện"
+        },
+        {
+          "id": 738,
+          "civilian": "Bếp từ",
+          "undercover": "Bình nóng lạnh"
+        },
+        {
+          "id": 739,
+          "civilian": "Máy nước nóng năng lượng mặt trời",
+          "undercover": "Áo khoác giữ ấm"
+        },
+        {
+          "id": 740,
+          "civilian": "Áo len",
+          "undercover": "Găng tay giữ ấm"
+        },
+        {
+          "id": 741,
+          "civilian": "Khăn choàng cổ",
+          "undercover": "Máy tạo ẩm"
+        },
+        {
+          "id": 742,
+          "civilian": "Máy hút ẩm",
+          "undercover": "Nhiệt kế hồng ngoại"
+        },
+        {
+          "id": 743,
+          "civilian": "Đá lạnh",
+          "undercover": "Bình đun siêu tốc"
+        },
+        {
+          "id": 744,
+          "civilian": "Lò sưởi điện",
+          "undercover": "Máy làm mát không khí"
+        },
+        {
+          "id": 745,
+          "civilian": "Túi giữ nhiệt",
+          "undercover": "Khăn lạnh"
+        }
+      ]
+    },
+    {
+      "category": "Danh hiệu và biểu tượng vinh danh",
+      "pairs": [
+        {
+          "id": 746,
+          "civilian": "Huân chương",
+          "undercover": "Huy chương vàng"
+        },
+        {
+          "id": 747,
+          "civilian": "Bằng khen",
+          "undercover": "Giấy khen"
+        },
+        {
+          "id": 748,
+          "civilian": "Cúp danh dự",
+          "undercover": "Kỷ niệm chương"
+        },
+        {
+          "id": 749,
+          "civilian": "Chứng nhận danh hiệu",
+          "undercover": "Bảng vàng danh dự"
+        },
+        {
+          "id": 750,
+          "civilian": "Vương miện hoa hậu",
+          "undercover": "Đai vô địch danh dự"
+        },
+        {
+          "id": 751,
+          "civilian": "Cờ thi đua",
+          "undercover": "Bằng tốt nghiệp loại giỏi"
+        },
+        {
+          "id": 752,
+          "civilian": "Học bổng toàn phần",
+          "undercover": "Giải thưởng Nobel"
+        },
+        {
+          "id": 753,
+          "civilian": "Tượng vàng Oscar",
+          "undercover": "Ngôi sao đại lộ danh vọng"
+        },
+        {
+          "id": 754,
+          "civilian": "Cúp vàng vô địch",
+          "undercover": "Mề đay chiến công"
+        },
+        {
+          "id": 755,
+          "civilian": "Phù hiệu danh dự",
+          "undercover": "Quân hàm sĩ quan"
+        },
+        {
+          "id": 756,
+          "civilian": "Danh thiếp doanh nhân",
+          "undercover": "Sổ lưu niệm trường lớp"
+        },
+        {
+          "id": 757,
+          "civilian": "Bức tường vinh danh",
+          "undercover": "Tượng đài kỷ niệm"
+        },
+        {
+          "id": 758,
+          "civilian": "Bó hoa chiến thắng",
+          "undercover": "Bục vinh danh"
+        },
+        {
+          "id": 759,
+          "civilian": "Sách kỷ lục",
+          "undercover": "Chứng chỉ danh dự"
+        },
+        {
+          "id": 760,
+          "civilian": "Kỷ vật lưu niệm",
+          "undercover": "Bằng lái danh dự"
+        }
+      ]
+    },
+    {
+      "category": "Công cụ và biểu tượng tiêu cực",
+      "pairs": [
+        {
+          "id": 761,
+          "civilian": "Còng tay",
+          "undercover": "Roi da"
+        },
+        {
+          "id": 762,
+          "civilian": "Gông cùm",
+          "undercover": "Búa tòa án"
+        },
+        {
+          "id": 763,
+          "civilian": "Đơn kiện",
+          "undercover": "Giấy phạt vi phạm"
+        },
+        {
+          "id": 764,
+          "civilian": "Biên bản vi phạm",
+          "undercover": "Máy phát hiện nói dối"
+        },
+        {
+          "id": 765,
+          "civilian": "Mặt nạ trộm",
+          "undercover": "Xiềng xích"
+        },
+        {
+          "id": 766,
+          "civilian": "Hố bẫy",
+          "undercover": "Lưới bẫy thú"
+        },
+        {
+          "id": 767,
+          "civilian": "Rắn độc",
+          "undercover": "Nhện độc"
+        },
+        {
+          "id": 768,
+          "civilian": "Bọ cạp",
+          "undercover": "Mìn nổ"
+        },
+        {
+          "id": 769,
+          "civilian": "Virus máy tính",
+          "undercover": "Email lừa đảo"
+        },
+        {
+          "id": 770,
+          "civilian": "Tin giả",
+          "undercover": "Hợp đồng lừa đảo"
+        },
+        {
+          "id": 771,
+          "civilian": "Bẫy chuột",
+          "undercover": "Bẫy kẹp"
+        },
+        {
+          "id": 772,
+          "civilian": "Song sắt nhà tù",
+          "undercover": "Đồng phục tù nhân"
+        },
+        {
+          "id": 773,
+          "civilian": "Xà lim",
+          "undercover": "Chuông báo động"
+        },
+        {
+          "id": 774,
+          "civilian": "Camera giám sát",
+          "undercover": "Khóa số"
+        },
+        {
+          "id": 775,
+          "civilian": "Rào chắn kẽm gai",
+          "undercover": "Chó nghiệp vụ"
+        }
+      ]
+    },
+    {
+      "category": "Kiểu tóc và đặc điểm ngoại hình",
+      "pairs": [
+        {
+          "id": 776,
+          "civilian": "Tóc xoăn",
+          "undercover": "Tóc thẳng"
+        },
+        {
+          "id": 777,
+          "civilian": "Tóc ngắn",
+          "undercover": "Tóc dài"
+        },
+        {
+          "id": 778,
+          "civilian": "Tóc đuôi ngựa",
+          "undercover": "Tóc tết"
+        },
+        {
+          "id": 779,
+          "civilian": "Tóc undercut",
+          "undercover": "Đầu trọc"
+        },
+        {
+          "id": 780,
+          "civilian": "Tóc mái",
+          "undercover": "Tóc nhuộm highlight"
+        },
+        {
+          "id": 781,
+          "civilian": "Búi tóc củ tỏi",
+          "undercover": "Tóc xù"
+        },
+        {
+          "id": 782,
+          "civilian": "Râu quai nón",
+          "undercover": "Râu dê"
+        },
+        {
+          "id": 783,
+          "civilian": "Ria mép",
+          "undercover": "Lông mày rậm"
+        },
+        {
+          "id": 784,
+          "civilian": "Hình xăm",
+          "undercover": "Khuyên tai"
+        },
+        {
+          "id": 785,
+          "civilian": "Khuyên mũi",
+          "undercover": "Khuyên rốn"
+        },
+        {
+          "id": 786,
+          "civilian": "Móng tay sơn gel",
+          "undercover": "Da rám nắng"
+        },
+        {
+          "id": 787,
+          "civilian": "Da trắng sáng",
+          "undercover": "Vóc dáng cao ráo"
+        },
+        {
+          "id": 788,
+          "civilian": "Vóc dáng nhỏ nhắn",
+          "undercover": "Cơ bắp săn chắc"
+        },
+        {
+          "id": 789,
+          "civilian": "Lúm đồng tiền",
+          "undercover": "Nốt ruồi duyên"
+        },
+        {
+          "id": 790,
+          "civilian": "Mắt hai mí",
+          "undercover": "Mũi cao"
+        }
+      ]
+    },
+    {
+      "category": "Món ăn theo vị đặc trưng",
+      "pairs": [
+        {
+          "id": 791,
+          "civilian": "Món chua ngọt",
+          "undercover": "Món cay xé lưỡi"
+        },
+        {
+          "id": 792,
+          "civilian": "Món mặn đậm đà",
+          "undercover": "Món ngọt lịm"
+        },
+        {
+          "id": 793,
+          "civilian": "Món đắng thanh",
+          "undercover": "Kẹo chua"
+        },
+        {
+          "id": 794,
+          "civilian": "Ớt chỉ thiên",
+          "undercover": "Chanh muối"
+        },
+        {
+          "id": 795,
+          "civilian": "Me chua",
+          "undercover": "Khế chua"
+        },
+        {
+          "id": 796,
+          "civilian": "Mắm tôm",
+          "undercover": "Muối ớt xanh"
+        },
+        {
+          "id": 797,
+          "civilian": "Đường thốt nốt",
+          "undercover": "Socola đắng"
+        },
+        {
+          "id": 798,
+          "civilian": "Cà phê đen đắng",
+          "undercover": "Mướp đắng"
+        },
+        {
+          "id": 799,
+          "civilian": "Dưa chua",
+          "undercover": "Kim chi cay"
+        },
+        {
+          "id": 800,
+          "civilian": "Ô mai xí muội",
+          "undercover": "Cóc ngâm đường"
+        },
+        {
+          "id": 801,
+          "civilian": "Xoài lắc muối ớt",
+          "undercover": "Bánh tráng trộn"
+        },
+        {
+          "id": 802,
+          "civilian": "Nước mắm chua ngọt",
+          "undercover": "Sốt me chua"
+        },
+        {
+          "id": 803,
+          "civilian": "Trà đắng",
+          "undercover": "Nước chanh dây"
+        },
+        {
+          "id": 804,
+          "civilian": "Sữa chua nếp cẩm",
+          "undercover": "Chè đậu ngọt"
+        },
+        {
+          "id": 805,
+          "civilian": "Bánh flan",
+          "undercover": "Kẹo gừng cay"
+        }
+      ]
+    },
+    {
+      "category": "Thiết bị chiếu sáng",
+      "pairs": [
+        {
+          "id": 806,
+          "civilian": "Đèn bàn học",
+          "undercover": "Đèn ngủ"
+        },
+        {
+          "id": 807,
+          "civilian": "Đèn chùm pha lê",
+          "undercover": "Đèn đường"
+        },
+        {
+          "id": 808,
+          "civilian": "Đèn pha ô tô",
+          "undercover": "Đèn led âm trần"
+        },
+        {
+          "id": 809,
+          "civilian": "Đèn huỳnh quang",
+          "undercover": "Đèn dầu"
+        },
+        {
+          "id": 810,
+          "civilian": "Cây nến",
+          "undercover": "Bó đuốc"
+        },
+        {
+          "id": 811,
+          "civilian": "Pháo hoa",
+          "undercover": "Đèn lồng Trung Thu"
+        },
+        {
+          "id": 812,
+          "civilian": "Đèn nháy trang trí",
+          "undercover": "Ánh đèn sân khấu"
+        },
+        {
+          "id": 813,
+          "civilian": "Đèn giao thông",
+          "undercover": "Đèn flash máy ảnh"
+        },
+        {
+          "id": 814,
+          "civilian": "Đèn laser",
+          "undercover": "Đèn cực tím UV"
+        },
+        {
+          "id": 815,
+          "civilian": "Đèn năng lượng mặt trời",
+          "undercover": "Con đom đóm"
+        },
+        {
+          "id": 816,
+          "civilian": "Bóng đèn tròn",
+          "undercover": "Chóa đèn"
+        },
+        {
+          "id": 817,
+          "civilian": "Đèn pin đội đầu",
+          "undercover": "Đèn báo hiệu tàu"
+        },
+        {
+          "id": 818,
+          "civilian": "Đèn hải đăng",
+          "undercover": "Đèn xi nhan"
+        },
+        {
+          "id": 819,
+          "civilian": "Đèn hậu xe",
+          "undercover": "Đèn ông sao"
+        },
+        {
+          "id": 820,
+          "civilian": "Đèn trang trí Noel",
+          "undercover": "Đèn phòng thu"
+        }
+      ]
+    },
+    {
+      "category": "Vật liệu xây dựng và may mặc",
+      "pairs": [
+        {
+          "id": 821,
+          "civilian": "Gỗ tự nhiên",
+          "undercover": "Sắt thép"
+        },
+        {
+          "id": 822,
+          "civilian": "Nhôm",
+          "undercover": "Đồng thau"
+        },
+        {
+          "id": 823,
+          "civilian": "Nhựa PVC",
+          "undercover": "Cao su"
+        },
+        {
+          "id": 824,
+          "civilian": "Vải cotton",
+          "undercover": "Vải len"
+        },
+        {
+          "id": 825,
+          "civilian": "Vải lụa",
+          "undercover": "Vải jean"
+        },
+        {
+          "id": 826,
+          "civilian": "Da thật",
+          "undercover": "Da giả"
+        },
+        {
+          "id": 827,
+          "civilian": "Gốm sứ",
+          "undercover": "Thủy tinh cường lực"
+        },
+        {
+          "id": 828,
+          "civilian": "Đá granite",
+          "undercover": "Đá cẩm thạch"
+        },
+        {
+          "id": 829,
+          "civilian": "Bê tông cốt thép",
+          "undercover": "Gạch nung"
+        },
+        {
+          "id": 830,
+          "civilian": "Xi măng",
+          "undercover": "Giấy bìa cứng"
+        },
+        {
+          "id": 831,
+          "civilian": "Mút xốp",
+          "undercover": "Vải nỉ"
+        },
+        {
+          "id": 832,
+          "civilian": "Vải denim",
+          "undercover": "Vải kaki"
+        },
+        {
+          "id": 833,
+          "civilian": "Vải voan",
+          "undercover": "Vải ren"
+        },
+        {
+          "id": 834,
+          "civilian": "Vải thô",
+          "undercover": "Sợi tổng hợp"
+        },
+        {
+          "id": 835,
+          "civilian": "Da lộn",
+          "undercover": "Vải dạ"
+        }
+      ]
+    },
+    {
+      "category": "Vật dụng ứng phó thời tiết",
+      "pairs": [
+        {
+          "id": 836,
+          "civilian": "Áo mưa",
+          "undercover": "Ô che mưa"
+        },
+        {
+          "id": 837,
+          "civilian": "Ủng đi mưa",
+          "undercover": "Kính râm chống nắng"
+        },
+        {
+          "id": 838,
+          "civilian": "Kem chống nắng",
+          "undercover": "Mũ rộng vành chống nắng"
+        },
+        {
+          "id": 839,
+          "civilian": "Áo phao cứu sinh",
+          "undercover": "Máy đo lượng mưa"
+        },
+        {
+          "id": 840,
+          "civilian": "Máy đo tốc độ gió",
+          "undercover": "Vệ tinh dự báo thời tiết"
+        },
+        {
+          "id": 841,
+          "civilian": "Bản tin dự báo thời tiết",
+          "undercover": "Nhiệt kế ngoài trời"
+        },
+        {
+          "id": 842,
+          "civilian": "Ẩm kế",
+          "undercover": "Phong vũ biểu"
+        },
+        {
+          "id": 843,
+          "civilian": "Chong chóng đo gió",
+          "undercover": "Cánh diều"
+        },
+        {
+          "id": 844,
+          "civilian": "Còi báo bão",
+          "undercover": "Hầm trú bão"
+        },
+        {
+          "id": 845,
+          "civilian": "Đê chắn sóng",
+          "undercover": "Bao cát chắn lũ"
+        },
+        {
+          "id": 846,
+          "civilian": "Thuyền cứu hộ",
+          "undercover": "Máy bơm nước chống ngập"
+        },
+        {
+          "id": 847,
+          "civilian": "Ống thoát nước mưa",
+          "undercover": "Khăn choàng giữ ấm"
+        },
+        {
+          "id": 848,
+          "civilian": "Găng tay chống rét",
+          "undercover": "Bình xịt chống nóng"
+        },
+        {
+          "id": 849,
+          "civilian": "Quạt cầm tay",
+          "undercover": "Áo chống nắng"
+        },
+        {
+          "id": 850,
+          "civilian": "Kính chống bụi",
+          "undercover": "Khẩu trang chống ô nhiễm"
+        }
+      ]
+    },
+    {
+      "category": "Cấp độ và thử thách",
+      "pairs": [
+        {
+          "id": 851,
+          "civilian": "Đề thi dễ",
+          "undercover": "Đề thi khó"
+        },
+        {
+          "id": 852,
+          "civilian": "Bài tập cơ bản",
+          "undercover": "Bài tập nâng cao"
+        },
+        {
+          "id": 853,
+          "civilian": "Câu đố mẹo",
+          "undercover": "Bài toán khó"
+        },
+        {
+          "id": 854,
+          "civilian": "Kỳ thi quốc gia",
+          "undercover": "Chứng chỉ nâng cao"
+        },
+        {
+          "id": 855,
+          "civilian": "Khóa học chuyên sâu",
+          "undercover": "Sách giáo khoa cơ bản"
+        },
+        {
+          "id": 856,
+          "civilian": "Sách bài tập nâng cao",
+          "undercover": "Rubik 3x3"
+        },
+        {
+          "id": 857,
+          "civilian": "Rubik 5x5",
+          "undercover": "Game giải đố khó"
+        },
+        {
+          "id": 858,
+          "civilian": "Thử thách vượt chướng ngại vật",
+          "undercover": "Bảng xếp hạng độ khó"
+        },
+        {
+          "id": 859,
+          "civilian": "Bài kiểm tra 15 phút",
+          "undercover": "Đề cương ôn tập"
+        },
+        {
+          "id": 860,
+          "civilian": "Ma trận đề thi",
+          "undercover": "Vòng loại"
+        },
+        {
+          "id": 861,
+          "civilian": "Vòng chung kết",
+          "undercover": "Câu hỏi phụ"
+        },
+        {
+          "id": 862,
+          "civilian": "Trò chơi trí tuệ",
+          "undercover": "Mê cung"
+        },
+        {
+          "id": 863,
+          "civilian": "Bài luận tốt nghiệp",
+          "undercover": "Kỳ thi vượt cấp"
+        },
+        {
+          "id": 864,
+          "civilian": "Chứng chỉ IELTS",
+          "undercover": "Bài thi thực hành"
+        },
+        {
+          "id": 865,
+          "civilian": "Cấp độ game boss cuối",
+          "undercover": "Đường đua vật cản"
+        }
+      ]
+    },
+    {
+      "category": "Đồ cổ và đồ hiện đại",
+      "pairs": [
+        {
+          "id": 866,
+          "civilian": "Điện thoại đời cũ",
+          "undercover": "Điện thoại thông minh đời mới"
+        },
+        {
+          "id": 867,
+          "civilian": "Xe cổ",
+          "undercover": "Xe điện đời mới"
+        },
+        {
+          "id": 868,
+          "civilian": "Máy ảnh phim",
+          "undercover": "Máy ảnh kỹ thuật số"
+        },
+        {
+          "id": 869,
+          "civilian": "Đồng hồ quả lắc",
+          "undercover": "Đồng hồ thông minh"
+        },
+        {
+          "id": 870,
+          "civilian": "Sách giấy",
+          "undercover": "Sách điện tử"
+        },
+        {
+          "id": 871,
+          "civilian": "Băng cassette",
+          "undercover": "Đĩa CD"
+        },
+        {
+          "id": 872,
+          "civilian": "Đèn dầu cổ",
+          "undercover": "Đèn led hiện đại"
+        },
+        {
+          "id": 873,
+          "civilian": "Radio cổ",
+          "undercover": "Loa bluetooth"
+        },
+        {
+          "id": 874,
+          "civilian": "Máy đánh chữ",
+          "undercover": "Máy tính xách tay"
+        },
+        {
+          "id": 875,
+          "civilian": "Xe đạp cổ",
+          "undercover": "Xe đạp điện"
+        },
+        {
+          "id": 876,
+          "civilian": "Nhà cổ",
+          "undercover": "Nhà cao tầng hiện đại"
+        },
+        {
+          "id": 877,
+          "civilian": "Chợ truyền thống",
+          "undercover": "Siêu thị hiện đại"
+        },
+        {
+          "id": 878,
+          "civilian": "Tiền xu cổ",
+          "undercover": "Ví tiền điện tử"
+        },
+        {
+          "id": 879,
+          "civilian": "Tranh cổ",
+          "undercover": "Tranh kỹ thuật số"
+        },
+        {
+          "id": 880,
+          "civilian": "Bàn là than",
+          "undercover": "Bàn ủi hơi nước"
+        }
+      ]
+    },
+    {
+      "category": "Biểu tượng may mắn và niềm vui",
+      "pairs": [
+        {
+          "id": 881,
+          "civilian": "Pháo hoa",
+          "undercover": "Bong bóng bay"
+        },
+        {
+          "id": 882,
+          "civilian": "Kẹo mút",
+          "undercover": "Bánh sinh nhật"
+        },
+        {
+          "id": 883,
+          "civilian": "Cỏ bốn lá",
+          "undercover": "Móng ngựa may mắn"
+        },
+        {
+          "id": 884,
+          "civilian": "Đồng xu may mắn",
+          "undercover": "Chuông gió may mắn"
+        },
+        {
+          "id": 885,
+          "civilian": "Vé số trúng thưởng",
+          "undercover": "Cầu vồng"
+        },
+        {
+          "id": 886,
+          "civilian": "Hoa hướng dương",
+          "undercover": "Bóng bay hình trái tim"
+        },
+        {
+          "id": 887,
+          "civilian": "Confetti giấy vụn",
+          "undercover": "Đèn lồng Trung Thu"
+        },
+        {
+          "id": 888,
+          "civilian": "Pháo giấy chúc mừng",
+          "undercover": "Bánh kem sinh nhật"
+        },
+        {
+          "id": 889,
+          "civilian": "Kẹo ngọt",
+          "undercover": "Ánh nắng ban mai"
+        },
+        {
+          "id": 890,
+          "civilian": "Bãi biển xanh",
+          "undercover": "Món quà bất ngờ"
+        },
+        {
+          "id": 891,
+          "civilian": "Tiệc sinh nhật",
+          "undercover": "Lễ hội hoa đăng"
+        },
+        {
+          "id": 892,
+          "civilian": "Vòng đu quay",
+          "undercover": "Nhà bóng trẻ em"
+        },
+        {
+          "id": 893,
+          "civilian": "Bong bóng xà phòng",
+          "undercover": "Kẹo bông gòn"
+        },
+        {
+          "id": 894,
+          "civilian": "Xích đu công viên",
+          "undercover": "Cầu trượt"
+        },
+        {
+          "id": 895,
+          "civilian": "Cây thông Noel",
+          "undercover": "Bao lì xì đỏ"
+        }
+      ]
+    },
+    {
+      "category": "Biểu tượng xui xẻo và u buồn",
+      "pairs": [
+        {
+          "id": 896,
+          "civilian": "Mèo đen",
+          "undercover": "Gương vỡ"
+        },
+        {
+          "id": 897,
+          "civilian": "Số 13",
+          "undercover": "Bóng ma"
+        },
+        {
+          "id": 898,
+          "civilian": "Nghĩa địa",
+          "undercover": "Quan tài"
+        },
+        {
+          "id": 899,
+          "civilian": "Vòng hoa tang",
+          "undercover": "Khăn tang trắng"
+        },
+        {
+          "id": 900,
+          "civilian": "Mưa dầm dề",
+          "undercover": "Đám mây đen"
+        },
+        {
+          "id": 901,
+          "civilian": "Con quạ đen",
+          "undercover": "Cú mèo"
+        },
+        {
+          "id": 902,
+          "civilian": "Nhện đen",
+          "undercover": "Đèn cầy tang lễ"
+        },
+        {
+          "id": 903,
+          "civilian": "Nhang khói",
+          "undercover": "Bàn thờ"
+        },
+        {
+          "id": 904,
+          "civilian": "Di ảnh",
+          "undercover": "Xe tang"
+        },
+        {
+          "id": 905,
+          "civilian": "Nghĩa trang",
+          "undercover": "Hố sâu"
+        },
+        {
+          "id": 906,
+          "civilian": "Vực thẳm",
+          "undercover": "Bóng tối"
+        },
+        {
+          "id": 907,
+          "civilian": "Đêm không trăng",
+          "undercover": "Sương mù dày đặc"
+        },
+        {
+          "id": 908,
+          "civilian": "Lá bùa xui",
+          "undercover": "Cây khô héo"
+        },
+        {
+          "id": 909,
+          "civilian": "Bức tường đổ nát",
+          "undercover": "Vết nứt trên tường"
+        },
+        {
+          "id": 910,
+          "civilian": "Bóng đèn cháy",
+          "undercover": "Cánh cửa kẽo kẹt"
+        }
+      ]
+    },
+    {
+      "category": "Nguồn phát âm thanh tự nhiên",
+      "pairs": [
+        {
+          "id": 911,
+          "civilian": "Tiếng chim hót",
+          "undercover": "Tiếng sóng biển"
+        },
+        {
+          "id": 912,
+          "civilian": "Tiếng mưa rơi",
+          "undercover": "Tiếng sấm sét"
+        },
+        {
+          "id": 913,
+          "civilian": "Tiếng gió thổi",
+          "undercover": "Tiếng suối chảy"
+        },
+        {
+          "id": 914,
+          "civilian": "Tiếng ve kêu",
+          "undercover": "Tiếng dế kêu"
+        },
+        {
+          "id": 915,
+          "civilian": "Tiếng chó sủa",
+          "undercover": "Tiếng mèo kêu"
+        },
+        {
+          "id": 916,
+          "civilian": "Tiếng gà gáy",
+          "undercover": "Tiếng còi xe"
+        },
+        {
+          "id": 917,
+          "civilian": "Tiếng chuông nhà thờ",
+          "undercover": "Tiếng trống hội"
+        },
+        {
+          "id": 918,
+          "civilian": "Tiếng đàn piano",
+          "undercover": "Tiếng vĩ cầm"
+        },
+        {
+          "id": 919,
+          "civilian": "Tiếng sáo trúc",
+          "undercover": "Tiếng cười giòn tan"
+        },
+        {
+          "id": 920,
+          "civilian": "Tiếng khóc trẻ thơ",
+          "undercover": "Tiếng hét thất thanh"
+        },
+        {
+          "id": 921,
+          "civilian": "Tiếng thì thầm",
+          "undercover": "Tiếng vỗ tay"
+        },
+        {
+          "id": 922,
+          "civilian": "Tiếng bước chân",
+          "undercover": "Tiếng gõ cửa"
+        },
+        {
+          "id": 923,
+          "civilian": "Tiếng còi báo động",
+          "undercover": "Tiếng nổ lớn"
+        },
+        {
+          "id": 924,
+          "civilian": "Tiếng pháo nổ",
+          "undercover": "Tiếng còi tàu hỏa"
+        },
+        {
+          "id": 925,
+          "civilian": "Tiếng động cơ máy bay",
+          "undercover": "Tiếng ếch kêu đêm mưa"
+        }
+      ]
+    },
+    {
+      "category": "Nguồn mùi hương",
+      "pairs": [
+        {
+          "id": 926,
+          "civilian": "Nước hoa",
+          "undercover": "Nến thơm"
+        },
+        {
+          "id": 927,
+          "civilian": "Tinh dầu oải hương",
+          "undercover": "Hoa nhài"
+        },
+        {
+          "id": 928,
+          "civilian": "Hoa hồng",
+          "undercover": "Hoa lài"
+        },
+        {
+          "id": 929,
+          "civilian": "Trầm hương",
+          "undercover": "Nhang thơm"
+        },
+        {
+          "id": 930,
+          "civilian": "Xà phòng thơm",
+          "undercover": "Dầu gội thơm"
+        },
+        {
+          "id": 931,
+          "civilian": "Sữa tắm thơm",
+          "undercover": "Cà phê rang xay"
+        },
+        {
+          "id": 932,
+          "civilian": "Bánh mì mới nướng",
+          "undercover": "Vani"
+        },
+        {
+          "id": 933,
+          "civilian": "Quế",
+          "undercover": "Sả"
+        },
+        {
+          "id": 934,
+          "civilian": "Bạc hà",
+          "undercover": "Gỗ đàn hương"
+        },
+        {
+          "id": 935,
+          "civilian": "Bình xịt phòng",
+          "undercover": "Túi thơm treo xe"
+        },
+        {
+          "id": 936,
+          "civilian": "Hoa sữa",
+          "undercover": "Hoa ngọc lan"
+        },
+        {
+          "id": 937,
+          "civilian": "Mùi rơm rạ",
+          "undercover": "Mùi biển mặn"
+        },
+        {
+          "id": 938,
+          "civilian": "Mùi đất sau mưa",
+          "undercover": "Mùi khói bếp"
+        },
+        {
+          "id": 939,
+          "civilian": "Mùi cỏ mới cắt",
+          "undercover": "Mùi bánh ngọt"
+        },
+        {
+          "id": 940,
+          "civilian": "Tinh dầu bạc hà",
+          "undercover": "Nước hoa hồng"
+        }
+      ]
+    },
+    {
+      "category": "Biểu tượng giàu có và nghèo khó",
+      "pairs": [
+        {
+          "id": 941,
+          "civilian": "Biệt thự sang trọng",
+          "undercover": "Nhà lá đơn sơ"
+        },
+        {
+          "id": 942,
+          "civilian": "Siêu xe thể thao",
+          "undercover": "Xe đạp cà tàng"
+        },
+        {
+          "id": 943,
+          "civilian": "Du thuyền hạng sang",
+          "undercover": "Thuyền thúng"
+        },
+        {
+          "id": 944,
+          "civilian": "Viên kim cương",
+          "undercover": "Hòn sỏi"
+        },
+        {
+          "id": 945,
+          "civilian": "Thỏi vàng",
+          "undercover": "Đồng nát ve chai"
+        },
+        {
+          "id": 946,
+          "civilian": "Túi hiệu Louis Vuitton",
+          "undercover": "Túi vải thô"
+        },
+        {
+          "id": 947,
+          "civilian": "Đồng hồ Rolex",
+          "undercover": "Đồng hồ điện tử rẻ tiền"
+        },
+        {
+          "id": 948,
+          "civilian": "Khách sạn 5 sao",
+          "undercover": "Nhà trọ bình dân"
+        },
+        {
+          "id": 949,
+          "civilian": "Máy bay riêng",
+          "undercover": "Xe buýt công cộng"
+        },
+        {
+          "id": 950,
+          "civilian": "Rượu vang đắt tiền",
+          "undercover": "Ly nước lã"
+        },
+        {
+          "id": 951,
+          "civilian": "Áo hàng hiệu",
+          "undercover": "Áo vá chằng chịt"
+        },
+        {
+          "id": 952,
+          "civilian": "Sổ tiết kiệm ngân hàng",
+          "undercover": "Giấy nợ"
+        },
+        {
+          "id": 953,
+          "civilian": "Cổ phiếu công ty",
+          "undercover": "Tiền lẻ"
+        },
+        {
+          "id": 954,
+          "civilian": "Heo đất tiết kiệm",
+          "undercover": "Két sắt"
+        },
+        {
+          "id": 955,
+          "civilian": "Bữa tiệc sang trọng",
+          "undercover": "Bữa cơm đạm bạc"
+        }
+      ]
+    },
+    {
+      "category": "Vật dụng vệ sinh cá nhân",
+      "pairs": [
+        {
+          "id": 956,
+          "civilian": "Xà phòng tắm",
+          "undercover": "Sữa tắm"
+        },
+        {
+          "id": 957,
+          "civilian": "Dầu gội đầu",
+          "undercover": "Kem đánh răng"
+        },
+        {
+          "id": 958,
+          "civilian": "Bàn chải đánh răng",
+          "undercover": "Nước súc miệng"
+        },
+        {
+          "id": 959,
+          "civilian": "Khăn tắm",
+          "undercover": "Vòi hoa sen"
+        },
+        {
+          "id": 960,
+          "civilian": "Nước rửa tay",
+          "undercover": "Nước sát khuẩn"
+        },
+        {
+          "id": 961,
+          "civilian": "Khẩu trang y tế",
+          "undercover": "Găng tay y tế"
+        },
+        {
+          "id": 962,
+          "civilian": "Túi rác vệ sinh",
+          "undercover": "Mốc meo nhà tắm"
+        },
+        {
+          "id": 963,
+          "civilian": "Vết ố vàng",
+          "undercover": "Máy giặt quần áo"
+        },
+        {
+          "id": 964,
+          "civilian": "Bột giặt",
+          "undercover": "Nước xả vải thơm"
+        },
+        {
+          "id": 965,
+          "civilian": "Chổi quét sân",
+          "undercover": "Giẻ lau nhà bẩn"
+        },
+        {
+          "id": 966,
+          "civilian": "Nước rửa chén bát",
+          "undercover": "Bàn chải cọ bồn cầu"
+        },
+        {
+          "id": 967,
+          "civilian": "Nước tẩy bồn cầu",
+          "undercover": "Túi khử mùi tủ lạnh"
+        },
+        {
+          "id": 968,
+          "civilian": "Viên xịt phòng",
+          "undercover": "Máy lọc không khí"
+        },
+        {
+          "id": 969,
+          "civilian": "Miếng dán khử mùi giày",
+          "undercover": "Bột baking soda khử mùi"
+        },
+        {
+          "id": 970,
+          "civilian": "Giấy thấm dầu",
+          "undercover": "Khăn ướt em bé"
+        }
+      ]
+    },
+    {
+      "category": "Vật thể xa gần nặng nhẹ",
+      "pairs": [
+        {
+          "id": 971,
+          "civilian": "Quả tạ nặng",
+          "undercover": "Lông vũ nhẹ tênh"
+        },
+        {
+          "id": 972,
+          "civilian": "Container hàng hóa",
+          "undercover": "Xe tải hạng nặng"
+        },
+        {
+          "id": 973,
+          "civilian": "Bông gòn",
+          "undercover": "Bản đồ thế giới"
+        },
+        {
+          "id": 974,
+          "civilian": "GPS dẫn đường",
+          "undercover": "La bàn"
+        },
+        {
+          "id": 975,
+          "civilian": "Ống nhòm nhìn xa",
+          "undercover": "Kính viễn vọng"
+        },
+        {
+          "id": 976,
+          "civilian": "Vệ tinh nhân tạo",
+          "undercover": "Tên lửa đẩy"
+        },
+        {
+          "id": 977,
+          "civilian": "Máy bay đường dài",
+          "undercover": "Trạm dừng chân gần nhà"
+        },
+        {
+          "id": 978,
+          "civilian": "Cột mốc biên giới",
+          "undercover": "Biển chỉ đường"
+        },
+        {
+          "id": 979,
+          "civilian": "Cầu vượt",
+          "undercover": "Đường hầm xuyên núi"
+        },
+        {
+          "id": 980,
+          "civilian": "Tàu vũ trụ",
+          "undercover": "Trạm không gian"
+        },
+        {
+          "id": 981,
+          "civilian": "Kim tự tháp Ai Cập",
+          "undercover": "Vạn Lý Trường Thành"
+        },
+        {
+          "id": 982,
+          "civilian": "Túi xách nhẹ",
+          "undercover": "Ba lô nặng trĩu"
+        },
+        {
+          "id": 983,
+          "civilian": "Quả bóng bay",
+          "undercover": "Cục đá tảng"
+        },
+        {
+          "id": 984,
+          "civilian": "Chiếc lông chim",
+          "undercover": "Bao gạo 50kg"
+        },
+        {
+          "id": 985,
+          "civilian": "Chiếc lá khô",
+          "undercover": "Khối sắt đặc"
+        }
+      ]
+    },
+    {
+      "category": "Biểu tượng sức mạnh và trí tuệ",
+      "pairs": [
+        {
+          "id": 986,
+          "civilian": "Tạ đòn tập gym",
+          "undercover": "Găng tay boxing"
+        },
+        {
+          "id": 987,
+          "civilian": "Áo giáp hiệp sĩ",
+          "undercover": "Khiên chắn"
+        },
+        {
+          "id": 988,
+          "civilian": "Thanh kiếm",
+          "undercover": "Con voi"
+        },
+        {
+          "id": 989,
+          "civilian": "Con kiến",
+          "undercover": "Con sư tử"
+        },
+        {
+          "id": 990,
+          "civilian": "Bộ não người",
+          "undercover": "Sách bách khoa toàn thư"
+        },
+        {
+          "id": 991,
+          "civilian": "Bàn cờ vua",
+          "undercover": "Khối rubik"
+        },
+        {
+          "id": 992,
+          "civilian": "Bài kiểm tra IQ",
+          "undercover": "Kính thông minh"
+        },
+        {
+          "id": 993,
+          "civilian": "Máy tính lượng tử",
+          "undercover": "Robot trí tuệ nhân tạo"
+        },
+        {
+          "id": 994,
+          "civilian": "Thư viện quốc gia",
+          "undercover": "Bằng tiến sĩ"
+        },
+        {
+          "id": 995,
+          "civilian": "Huy chương Olympic Toán học",
+          "undercover": "Giải thưởng Nobel"
+        },
+        {
+          "id": 996,
+          "civilian": "Đồng hồ thông minh",
+          "undercover": "Siêu máy tính"
+        },
+        {
+          "id": 997,
+          "civilian": "Vệ tinh do thám",
+          "undercover": "Kim tự tháp cổ đại"
+        },
+        {
+          "id": 998,
+          "civilian": "Chiếc cân trí tuệ",
+          "undercover": "Bộ xương khủng long hóa thạch"
+        },
+        {
+          "id": 999,
+          "civilian": "Vương miện chiến binh",
+          "undercover": "Cây gậy phù thủy"
+        },
+        {
+          "id": 1000,
+          "civilian": "Chiếc khiên vàng",
+          "undercover": "Thanh gươm ánh sáng"
+        }
+      ]
+    }
+  ]
+}
